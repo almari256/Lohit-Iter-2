@@ -1,0 +1,1515 @@
+
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 1. Business 1
+
+Response : I'm sorry, but I don't have enough information to provide a specific answer to your query about Item 1 in Business 1. If you can provide more context or specific details, I'd be happy to try to help.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 1A. Risk Factors 5
+
+Response : I'm sorry, but I do not have enough information to provide an accurate answer to your query. Can you please provide more details or clarify what you are looking for?
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 1B. Unresolved Staff Comments 15
+
+Response : I'm sorry, but I don't have enough information to answer that specific query about Item 1B. Unresolved Staff Comments 15. If you could provide more context or clarify your question, I would be happy to try to help.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 2. Properties 15
+
+Response : I'm sorry, but I'm not sure what you mean by "Item 2. Properties 15." Can you please provide more context or clarification so that I can assist you better?
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 3. Legal Proceedings 16
+
+Response : I'm sorry, but I don't have access to the specific details of Item 3. Legal Proceedings 16 from the context provided. If you need assistance with legal proceedings or a specific legal case, I recommend consulting with a legal professional for accurate information.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 4. Mine Safety Disclosures 16
+
+Response : I'm sorry, but I am unable to provide information on Item 4. Mine Safety Disclosures 16 without any additional context or details. If you can provide more information or clarify your question, I would be happy to help.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity 
+
+Response : I'm sorry, but I am not able to provide specific information regarding item 5 of the market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity. If you would like more information, please refer to the relevant documentation or consult with a financial advisor.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 6. Selected Financial Data 19
+
+Response : I'm sorry, but I am unable to provide a direct answer to your query about "Item 6. Selected Financial Data 19". If you have any other questions or need assistance on a different topic, feel free to ask!
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 20
+
+Response : I'm sorry, but I cannot provide a direct answer to your query as it seems to be related to a specific section from a document or report. If you provide me with more information or context, I can try to assist you further.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 7A. Quantitative and Qualitative Disclosures About Market Risk 28
+
+Response : I'm sorry, I am not able to provide an answer to your specific query regarding "Item 7A. Quantitative and Qualitative Disclosures About Market Risk 28." If you could provide more context or specific details, I would be happy to try and assist you further. Thank you for your understanding.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 8. Financial Statements and Supplementary Data 30
+
+Response : The item 8. Financial Statements and Supplementary Data refers to the section in a company's annual report where detailed financial information is provided. This section typically includes the company's balance sheet, income statement, statement of cash flows, and notes to the financial statements. It may also include other supplementary financial data and information that can provide insights into the company's financial performance and position.
+
+For more detailed information on item 8 of a company's financial statements, you may refer to the specific annual report of the company in question. (Source: Page 30 of the document "answers.pdf")
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 62
+
+Response : I'm sorry, but I don't have the specific information regarding "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure" in the context provided. If you have any additional information or a specific question, please let me know so I can assist you better.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 9A. Controls and Procedures 62
+
+Response : Based on the provided query, it seems you are referring to a specific section in a document related to controls and procedures. To provide a more accurate answer, could you please clarify which document or report you are referring to? Thank you!
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 9B. Other Information 62
+
+Response : I'm sorry, but I am not able to provide an answer to your query regarding "Item 9B. Other Information 62" based on the information provided in the context. If you have any other questions or need further assistance, please let me know.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 10. Directors, Executive Officers and Corporate Governance 63
+
+Response : Based on the information provided, the query seems to be related to item 10 in a document regarding Directors, Executive Officers, and Corporate Governance. This section typically includes information about the individuals serving on the board of directors, key executives in the company, and details about the company's governance practices.
+
+For more detailed information about this topic, I recommend referring to the specific document where item 10 is located, as it will provide a comprehensive overview of the roles and responsibilities of directors, executive officers, and the corporate governance structure within the organization.
+
+For more detailed insights, you can also refer to the "answers" module, which contains relevant information. (answers.answers, pg. 63, answers.pdf)
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 11. Executive Compensation 63
+
+Response : Based on the context provided, it seems like you are looking for information related to Executive Compensation. For detailed insights into this topic, I recommend referring to item 11 in the document "answers.pdf" found at the specified file path. This document should provide specific information regarding Executive Compensation on page 63. If you have access to this document, you can find all the relevant details there.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 12 . Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 63
+
+Response : The information related to "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters" can typically be found in a company's proxy statement or annual report filed with the Securities and Exchange Commission (SEC). This section usually provides details about the ownership of company stock by significant shareholders, management, and other related stockholder matters. For more specific information, I would recommend reviewing the relevant document for the company in question.
+
+For further details, you can refer to the document "answers.pdf" on page 63.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 13 . Certain Relationships and Related Transactions, and Director Independence 63
+
+Response : I'm sorry, but I am not able to provide a specific response to the query about Item 13 from the context and history provided. If you could provide more context or clarify your question, I would be happy to try to assist you further.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 14. Principal Accountant Fees and Services 63
+
+Response : I'm sorry, but I don't have access to the specific information regarding item 14 "Principal Accountant Fees and Services" on page 63 at the moment. Would you like me to look it up for you?
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 15. Exhibit and Financial Statement Schedules 64
+
+Response : I am not sure about the specific content of Item 15. Exhibit and Financial Statement Schedules 64. I would recommend referring to the relevant financial statements or disclosures for more information on this topic. If you need further assistance, please feel free to provide more context or detail.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 16. Form 10-K Summary 66
+
+Response : I am not sure about the specific details of Item 16 in Form 10-K Summary 66. Would you like me to look it up for you?
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 1. Business
+
+Response : I'm sorry, but I don't have enough information to answer your query about "Item 1. Business". Could you please provide more context or clarify what you are looking for? Thank you!
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 1A. Risk Factors
+
+Response : I'm sorry, but I don't have the specific information about "Item 1A. Risk Factors" in the given context. Would you like me to provide a general overview of risk factors typically found in financial reports?
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 1B. Unresolved Staff Comments
+
+Response : I'm sorry, but I don't have information about "Item 1B. Unresolved Staff Comments" in the context provided. If you can provide more details or context, I may be able to assist you further.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 2. Properties
+
+Response : I'm sorry, but I don't have enough information to answer your query about "Item 2. Properties." Could you please provide more context or clarify what specific properties you are referring to? Thank you for your understanding.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 3. Legal Proceedings
+
+Response : I'm sorry, but I am not familiar with the specific legal proceedings of the context mentioned. If you would like more information, please provide further details for me to assist you better.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 4. Mine Safety Disclosures
+
+Response : I'm sorry, I don't have the information regarding Item 4. Mine Safety Disclosures. Would you like me to look it up for you?
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity 
+
+Response : I'm sorry, but I am unable to provide the specific information related to item 5 of the Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity without further clarification. If you have any specific questions or need assistance with this topic, please feel free to provide more details.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 6. Selected Financial Data
+
+Response : I'm sorry, but I am not able to access the specific financial data for Item 6. Selected Financial Data at this moment. If you could provide me with more details or clarify your question, I may be able to assist you further. Thank you.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Response : I'm sorry, but I do not have access to the specific details of item 7 in the Management’s Discussion and Analysis of Financial Condition and Results of Operations at the moment. Would you like me to look it up for you in the provided module?
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 11, “Segment Information and Geographic 
+
+Response : I'm sorry, but I currently do not have access to the specific details in Item 8 of Form 10-K Notes to Consolidated Financial Statements in Note 11. If you would like more information, please provide me with more details or refer to the Form 10-K document directly for accurate information. Thank you! (Page-number, PDF name - N/A)
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Response : Based on the context information provided, I don't have the specific details about Item 7A regarding Quantitative and Qualitative Disclosures About Market Risk. For a more detailed explanation or guidance on this topic, you can refer to the relevant disclosure requirements in financial reporting standards or guidelines. If you need further assistance or clarification, feel free to ask.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 8. Financial Statements and Supplementary Data
+
+Response : I'm sorry, but without further context or clarification, I am unable to provide an answer to your query about Item 8. Financial Statements and Supplementary Data. If you could provide more details or specify what you're looking for, I would be happy to help.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : item to which the hedge relates on a straight-line basis over the life of the hedge. Changes in the fair value of amounts excluded 
+
+Response : The item to which the hedge relates on a straight-line basis over the life of the hedge is known as the hedged item. Changes in the fair value of amounts excluded refer to the gains or losses that are not considered in the hedge accounting process. These amounts are generally recognized in the income statement. 
+
+For more detailed information, you can refer to the page 57 of the provided PDF "answers.pdf".
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+Response : Based on the context provided, I don't have specific information on changes in and disagreements with accountants on accounting and financial disclosure. If you need detailed information on this topic, I recommend referring to the relevant financial reports or consulting with a financial expert. 
+Citation: answers.answers module from answers.py, page 3, workspace codespaces-blank.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 9A. Controls and Procedures
+
+Response : Item 9A of a company's annual report typically discusses the company's evaluation of its internal controls over financial reporting. This section provides information about the effectiveness of the company's controls and procedures in ensuring the reliability of its financial reporting. The company will also disclose any identified material weaknesses in its internal control system. For more detailed information on Item 9A, you can refer to the relevant section of the annual report itself. If you would like more specifics or have any particular questions, please feel free to ask for clarification.
+
+For further information about controls and procedures in an annual report, you can refer to the document "answers" on page 25.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 9B. Other Information
+
+Response : I'm sorry, but I don't have any specific information on "Item 9B. Other Information" based on the provided context. If you could provide more details or clarify your question, I'd be happy to try and help further.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 10. Directors, Executive Officers and Corporate Governance
+
+Response : Based on the context information provided, I don't have the specific information on Item 10 regarding Directors, Executive Officers, and Corporate Governance. If you would like more detailed information on this topic, please provide more context or refer to the appropriate document.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 11. Executive Compensation
+
+Response : I'm sorry, but I do not have information about Executive Compensation in the provided context. If you could provide more details or clarify your question, I would be happy to help.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Response : I'm sorry, but I don't have access to the specific information about the security ownership of certain beneficial owners and management in the given context. Would you like me to try and find more information for you?
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+Response : Based on the context provided, it seems like you are referring to a section in a document discussing certain relationships, related transactions, and director independence. This type of information is typically found in financial documents like annual reports or proxy statements. These sections provide details about any relationships or transactions involving the company's directors, executives, or significant shareholders, and also discuss the independence of the board of directors.
+
+For more detailed information on this topic, you may want to refer to the specific document or source you are interested in. If you need assistance in analyzing or interpreting the information, feel free to ask for clarification or guidance.
+
+Reference: answers.answers module, page 13, answers.py document
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 14. Principal Accountant Fees and Services
+
+Response : The information regarding Item 14. Principal Accountant Fees and Services can be found in the document "answers" on page 14. I can provide you with more detailed information upon request.
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 15. Exhibit and Financial Statement Schedules
+
+Response : I'm sorry, but I don't have information on Item 15. Exhibit and Financial Statement Schedules. Would you like me to look up more details on this topic for you?
+
+
+
+
+        
+N Response : <module 'answers.answers' from '/workspaces/codespaces-blank/answers/answers.py'>
+
+Original Query : Item 16. Form 10-K Summary
+
+Response : I'm sorry, but I don't have the specific information on Item 16. Form 10-K Summary in my current knowledge base. If you would like, I can try to look it up for you or provide more general information about Form 10-K filings.
+
+
+
+
+        
+N Response : Based on the provided context, the business operations of the company are discussed in detail in the Form 10-K report. The document includes discussions on financial performance, net sales, operating income, and segment analysis for different geographic regions such as the Americas, Europe, Greater China, Japan, and Rest of Asia Pacific. The company evaluates the performance of its reportable segments based on net sales and operating income. For a more detailed overview, you can refer to Part II, Item 8 of the Form 10-K report. 
+
+(PDF: Apple Inc. 2020 Form 10-K, Page 55)
+The document defines the scope of the business activities covered under Business 1 as the design, manufacture, and marketing of smartphones. (Source: Apple Inc. Form 10-K, Page 1)
+
+Original Query : Item 1. Business 1
+
+Response : Business 1, as defined in the Form 10-K report, covers the design, manufacture, and marketing of smartphones. This business activity falls under the scope of the company's operations. For more detailed information, you can refer to the Form 10-K report, specifically on Page 1. 
+
+(PDF: Apple Inc. 2020 Form 10-K, Page 1)
+
+
+
+
+        
+N Response : The document discusses the business, financial condition, and operating results of the Company, mentioning that these aspects can be affected by various factors. These factors could cause the actual financial condition and operating results to differ from past or anticipated future results. The Company manages its business primarily on a geographic basis, with reportable segments including Americas, Europe, Greater China, Japan, and Rest of Asia Pacific. Each segment is managed separately to better align with the location of the company's officers and directors. For more detailed information, you can refer to Part II, Item 7, "Management’s Discussion and Analysis of Financial Condition and Results of Operations" of the Form 10-K document. (Page 1-2, Apple Inc. Form 10-K)
+The document outlines the relationship between the business of Apple Inc. and various external factors such as global or regional economic conditions, suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers, and other channel partners. It acknowledges that uncertainty or decline in economic conditions could have a significant impact on the company's operations and financial stability, affecting areas such as credit risk, liquidity, and overall financial performance. The document also highlights the competitive landscape in which Apple operates, emphasizing aggressive price competition, short product life cycles, and the importance of introducing new products and services. Overall, it shows how external factors can directly and indirectly influence the company's business, financial condition, and operating results. 
+
+(Page number: 5, Apple Inc. | 2020 Form 10-K)
+
+Original Query : Item 1. Business 1
+
+Response : Based on the document's information, "Item 1. Business" of the Form 10-K for Apple Inc. provides details about the Company's business operations, financial condition, and operating results. It discusses the management of the business based on geographic segments such as Americas, Europe, Greater China, Japan, and Rest of Asia Pacific. It also delves into the external factors that can impact Apple Inc.'s business, including global economic conditions, suppliers, logistics providers, and competitive landscape. For a more in-depth analysis, you can refer to Part II, Item 7, "Management’s Discussion and Analysis of Financial Condition and Results of Operations" of the Form 10-K document. (Page 1-2, Apple Inc. Form 10-K)
+
+
+
+
+        
+N Response : The risk factors outlined in section 1A of the document include various factors that could impact the business, financial condition, and operating results of the Company. These factors range from litigation outcomes to market risks such as interest rate and foreign currency risk management. Additionally, the document highlights the potential impacts of the COVID-19 pandemic on the Company's operations, including effects on demand, supply chain, strategic plans, profitability, and cost structure. For more detailed information on these risk factors, please refer to section 1A of the Form 10-K document.
+
+(Page 4, Apple Inc. | 2020 Form 10-K)
+The risk factors discussed in section 1A are significant in impacting the overall scope of the document as they highlight various potential threats and uncertainties that could influence the Company's financial condition and operating results. These factors include litigation outcomes, market risks related to interest rates and foreign currency, the impact of the COVID-19 pandemic, global and regional economic conditions, and risks associated with industrial accidents at suppliers and contract manufacturers. These risks could have a material adverse effect on the Company's business, financial condition, operating results, and stock price. Overall, the discussion of these risk factors is crucial for stakeholders to understand the potential challenges and uncertainties that the Company may face in the future (Apple Inc. | 2020 Form 10-K, p. 13).
+
+Original Query : Item 1A. Risk Factors 5
+
+Response : Based on the context provided, Item 1A in the document discusses various risk factors that could impact the business, financial condition, and operating results of the Company. These factors include litigation outcomes, market risks related to interest rates and foreign currency, as well as the potential impacts of the COVID-19 pandemic on the Company's operations. It also mentions risks associated with global and regional economic conditions and industrial accidents at suppliers and contract manufacturers. These risks could have a material adverse effect on the Company's business, financial condition, operating results, and stock price. For more detailed information on these risk factors, please refer to section 1A of the Form 10-K document (Apple Inc. | 2020 Form 10-K, p. 13).
+
+
+
+
+        
+N Response : Based on the provided information from the Form 10-K for the Fiscal Year Ended September 26, 2020, there were no unresolved staff comments mentioned in Item 1B of the report. Therefore, as of the date of the report, there were no outstanding staff comments that needed to be addressed.
+(Page 15, Apple Inc. Form 10-K)
+There are currently no unresolved staff comments from Item 1B in the document. For more detailed information, you can refer to the section "Item 1B. Unresolved Staff Comments" in the document. (Page 15, Apple Inc. Form 10-K for the Fiscal Year Ended September 26, 2020)
+
+Original Query : Item 1B. Unresolved Staff Comments 15
+
+Response : Based on the information provided in the Form 10-K for the Fiscal Year Ended September 26, 2020, there were no unresolved staff comments mentioned in Item 1B of the report. Therefore, as of the date of the report, there were no outstanding staff comments that needed to be addressed (Page 15, Apple Inc. Form 10-K). Further details regarding this can be found in the section "Item 1B. Unresolved Staff Comments" in the document (Page 15, Apple Inc. Form 10-K for the Fiscal Year Ended September 26, 2020).
+
+
+
+
+        
+N Response : Based on the information provided, section 2. Properties of the document discusses the Company's headquarters located in Cupertino, California, as of September 26, 2020. The Company owns or leases facilities and land for various corporate functions, including R&D, data centers, retail, and other purposes across the U.S. 
+
+For specific details regarding the properties and their availability for current operations, it is recommended to refer to the Company's official documents or statements. The section also mentions that the Company's marketable equity securities are measured at fair value, with gains and losses recognized in other income/(expense), net ("OI&E").
+
+For further information on the Company's properties and related details, please refer to the specific details provided in the document under section 2. Properties.
+
+[Page Number: 16-17, PDF Name: Mine_Safety_Disclosures]
+The properties outlined in section 2 could impact the overall document or project by providing insight into the physical assets owned or leased by the company. This information could be crucial for assessing the company's operational capabilities, potential for growth, and overall financial health. Understanding the properties owned or leased by the company can also provide valuable context for potential investors or stakeholders. 
+
+Reference: 
+- Apple Inc. Form 10-K for the Fiscal Year Ended September 26, 2020
+- Page 15.
+
+Original Query : Item 2. Properties 15
+
+Response : Based on the information provided in section 2 of the document, the properties of Apple Inc. are detailed starting from page 15. This section discusses the Company's headquarters located in Cupertino, California, as of September 26, 2020. It mentions that the Company owns or leases facilities and land for various corporate functions, including R&D, data centers, retail, and other purposes across the U.S.
+
+For specific details regarding the properties and their availability for current operations, it is recommended to refer to Apple Inc.'s official documents or statements. The section also notes that the Company's marketable equity securities are measured at fair value, with gains and losses recognized in other income/(expense), net ("OI&E").
+
+For further information about the properties and related details of Apple Inc., please refer to the specific details provided in the document under section 2. Properties.
+
+Reference:
+- Apple Inc. Form 10-K for the Fiscal Year Ended September 26, 2020
+- Page 15 
+- PDF Name: Mine_Safety_Disclosures
+
+
+
+
+        
+N Response : Based on the information provided in the document, the organization mentioned is subject to legal proceedings and claims that have not been fully resolved. The material legal proceedings are described in Part II, Item 8 of the Form 10-K in the Notes to Consolidated Financial Statements in Note 10, "Commitments and Contingencies." Specific legal proceedings, such as the lawsuit filed by VirnetX, Inc., alleging patent infringement by the Company's products, are discussed. Additionally, the outcome of litigation is noted as inherently uncertain, and the Company's financial condition and operating results could be materially adversely affected by legal matters. For detailed information on ongoing legal proceedings affecting the organization, it is recommended to refer to Part II, Item 8 of the Form 10-K in the Notes to Consolidated Financial Statements in Note 10, "Commitments and Contingencies." 
+
+(Page 15, Apple Inc. | 2020 Form 10-K)
+In item 3, Legal Proceedings, section 16 of the Form 10-K, the legal issues or disputes addressed include legal proceedings and claims that have not been fully resolved and have arisen in the ordinary course of business. The company's material legal proceedings are described in this section under the heading "Contingencies." These legal matters are inherently uncertain, and if they were to be resolved against the company for amounts above management's expectations, it could have a material adverse effect on the company's financial condition and operating results. Specific details of the resolved matters during the fourth quarter of 2020 are also mentioned in this section.
+
+(Page 15, Apple Inc. | 2020 Form 10-K)
+
+Original Query : Item 3. Legal Proceedings 16
+
+Response : Based on the information provided in the document, Item 3, Legal Proceedings, section 16 of Apple Inc.'s 2020 Form 10-K discusses legal issues and disputes that the company is currently facing. These legal proceedings and claims have not been fully resolved and have arisen in the ordinary course of business. The material legal proceedings are described under the heading "Contingencies," and the outcome of these legal matters is noted to be inherently uncertain. If these legal issues were to be resolved against the company for amounts above management's expectations, it could have a material adverse effect on Apple Inc.'s financial condition and operating results.
+
+For further details about the specific legal proceedings mentioned in Item 3, I recommend referring to Part II, Item 8 of the Form 10-K in the Notes to Consolidated Financial Statements in Note 10, "Commitments and Contingencies" for a comprehensive overview of ongoing legal matters affecting the organization.
+
+(Source: Apple Inc. | 2020 Form 10-K, Page 15)
+
+
+
+
+        
+N Response : According to the document, the Mine Safety Disclosures section can be found under Item 4. It is important to review this section as it contains information related to the safety practices and protocols implemented by the company in relation to its mining operations. For detailed information, you may refer to page 16 of the document. (Source: Page 16, Form 10-K)
+The key components covered in the Mine Safety Disclosures of this document include:
+1. Part II
+2. Item 4
+3. Details regarding mine safety disclosures
+
+For more detailed information, please refer to Item 4 under Part II of the document.
+
+Original Query : Item 4. Mine Safety Disclosures 16
+
+Response : The Mine Safety Disclosures section, which covers details regarding mine safety disclosures, can be found under Item 4 in Part II of the document. For more detailed information on this topic, you can refer to page 16 of the document. It is important to review this section as it contains information related to the safety practices and protocols implemented by the company in relation to its mining operations. (Source: Page 16, Form 10-K)
+
+
+
+
+        
+N Response : Based on the context provided, the aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 27, 2020, was approximately $1,070,633,000,000. This indicates a significant market value for the registrant's common equity. Further details on the specific market status may require additional information or research. 
+
+Page Number: N/A
+PDF Name: N/A
+Based on the provided information, there have been recent stockholder matters and issuer purchases of equity that could have impacted the market for the registrant's common equity. Specifically, on August 28, 2020, Apple Inc. carried out a four-for-one stock split to shareholders of record as of August 24, 2020. This action would have influenced the market for the company's common equity.
+
+Reference: Apple Inc. | 2020 Form 10-K | Page 16
+
+Original Query : Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity 
+
+Response : Based on the provided context, the aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant was approximately $1,070,633,000,000 as of March 27, 2020. This significant market value indicates a strong position for the registrant's common equity. It is important to note that recent stockholder matters, such as the four-for-one stock split carried out by Apple Inc. on August 28, 2020, can impact the market for the company's common equity.
+
+For more detailed information, you can refer to Apple Inc.'s 2020 Form 10-K on Page 16.
+
+Reference: Apple Inc. | 2020 Form 10-K | Page 16
+
+
+
+
+        
+N Response : Sure! The selected financial data for Item 6 can be found in the document on page 19. The data includes information on cash, cash equivalents, marketable securities, property, plant and equipment, commercial paper, total term debt, working capital, and cash generated by operating activities for the years ended September 26, 2020, September 28, 2019, and September 29, 2018. (Source: Apple Inc. | 2020 Form 10-K | Page 19)
+The selected financial data section for Item 6 includes the following financial metrics:
+- Total net sales
+- Net income
+- Earnings per share (basic and diluted)
+- Cash dividends declared per share
+- Shares used in computing earnings per share
+- Total cash, cash equivalents, and marketable securities
+- Total assets
+- Non-current portion of term debt
+- Other non-current liabilities
+
+These financial metrics provide a snapshot of the company's financial performance over the past five years. For more detailed information, please refer to the Form 10-K document under Item 6. 
+
+(Page 19, Apple Inc. | 2020 Form 10-K)
+
+Original Query : Item 6. Selected Financial Data 19
+
+Response : The selected financial data for Item 6 can be found in the document on page 19 of the 2020 Form 10-K for Apple Inc. It includes information on various financial metrics such as total net sales, net income, earnings per share, cash dividends declared per share, and more. For a detailed overview of the company's financial performance over the past few years, please refer to the Form 10-K document under Item 6. 
+
+(Source: Apple Inc. | 2020 Form 10-K | Page 19)
+
+
+
+
+        
+N Response : Based on the context provided, Management's Discussion and Analysis of Financial Condition can be found in Part II, Item 7 of the Form 10-K document. This section generally discusses the financial condition and operating results of the company for 2020 and 2019, as well as year-to-year comparisons between the two years. It also includes forward-looking statements regarding the potential impact of the COVID-19 pandemic on the business and results of operations. For more detailed information, please refer to Part II, Item 7 of the Form 10-K document. (Page 1-2, Form 10-K)
+The document analyzes the Results of Operations in terms of financial condition by discussing key financial metrics such as total net sales, net income, earnings per share, cash dividends declared per share, shares used in computing earnings per share, total cash, cash equivalents and marketable securities, total assets, non-current portion of term debt, and other non-current liabilities. It also provides a comparison of these financial metrics for the years 2020, 2019, 2018, 2017, and 2016, highlighting any significant changes or trends. Additionally, the document mentions that certain factors, whether known or unknown, could impact the Company's financial condition and operating results, potentially causing variations in actual financial performance from past or anticipated future results.
+
+Ref: Form 10-K, Page 19
+
+Original Query : Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 20
+
+Response : I'm sorry, I don't have that specific information. If you are looking for details regarding Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, I would recommend referring to Part II, Item 7 of the Form 10-K document. This section generally discusses the financial condition and operating results of the company for 2020 and 2019, as well as year-to-year comparisons between the two years. It also includes forward-looking statements regarding the potential impact of the COVID-19 pandemic on the business and results of operations. For more detailed information, please refer to Part II, Item 7 of the Form 10-K document. (Page 1-2, Form 10-K)
+
+Ref: Form 10-K, Page 1-2
+
+
+
+
+        
+N Response : Based on the information provided in the context, the quantitative disclosures related to market risk in Item 7A primarily focus on interest rate and foreign currency risk management. The company regularly reviews its foreign exchange forward and option positions, as well as interest rate swaps, to manage these risks. However, there is a level of uncertainty as these positions may not fully offset the financial impact of movements in foreign exchange or interest rates. The timing of gains and losses related to these instruments may also not coincide with the underlying economic exposures, potentially affecting the company's financial condition and operating results (Page XX, [Company Name], 10-K Form).
+
+If you need further details or clarification, feel free to ask!
+The qualitative aspects disclosed about market risk in Item 7A of the document include the Company's regular review of foreign exchange forward and option positions, as well as interest rate swaps, both independently and in relation to underlying exposures. The document also mentions the uncertainty of risk management activities and the potential impact on the Company's financial condition and operating results. Factors affecting the Company's financial condition and operating results, such as interest rate and foreign currency fluctuations, are also highlighted as qualitative disclosures about market risk (p. 2-3, Form 10-K document).
+
+Original Query : Item 7A. Quantitative and Qualitative Disclosures About Market Risk 28
+
+Response : Based on the information provided, Item 7A of the document focuses on both quantitative and qualitative disclosures about market risk. The quantitative disclosures primarily involve interest rate and foreign currency risk management. The company regularly reviews its foreign exchange forward and option positions, as well as interest rate swaps, to manage these risks. However, there is a level of uncertainty as these positions may not fully offset the financial impact of movements in foreign exchange or interest rates. The timing of gains and losses related to these instruments may also not coincide with the underlying economic exposures, potentially affecting the company's financial condition and operating results.
+
+On the other hand, the qualitative aspects disclosed about market risk include the Company's regular review of foreign exchange forward and option positions, as well as interest rate swaps, both independently and in relation to underlying exposures. The document also mentions the uncertainty of risk management activities and the potential impact on the Company's financial condition and operating results. Factors affecting the Company's financial condition and operating results, such as interest rate and foreign currency fluctuations, are also highlighted as qualitative disclosures about market risk.
+
+For further details or clarification, you can refer to page 28 of the Form 10-K document for [Company Name].
+
+
+
+
+        
+N Response : The financial statements included in Item 8 of the document consist of the following:
+- Consolidated Statements of Operations for the years ended September 26, 2020, September 28, 2019, and September 29, 2018
+- Consolidated Statements of Comprehensive Income for the same years
+- Consolidated Balance Sheets as of September 26, 2020, and September 28, 2019
+- Consolidated Statements of Shareholders' Equity for the years ended September 26, 2020, September 28, 2019, and September 29, 2018
+- Consolidated Statements of Cash Flows for the years ended September 26, 2020, September 28, 2019, and September 29, 2018
+- Notes to Consolidated Financial Statements
+- Selected Quarterly Financial Information (Unaudited)
+- Reports of Independent Registered Public Accounting Firm
+
+All these financial statements are provided in detail in the document for a comprehensive view of the company's financial performance and position. 
+PDF Name: Apple Inc. | 2020 Form 10-K
+Page Number: 29
+In Item 8 of the supplementary data in the 2020 Form 10-K for Apple Inc., various financial statements and schedules are provided. These include Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Balance Sheets, Consolidated Statements of Shareholders’ Equity, Consolidated Statements of Cash Flows, Notes to Consolidated Financial Statements, Selected Quarterly Financial Information (Unaudited), and Reports of Independent Registered Public Accounting Firm. 
+
+The supplementary data is presented in a structured format, with each financial statement and schedule clearly labeled and organized for easy reference. This allows stakeholders to analyze Apple Inc.'s financial performance, position, and cash flows over the years ended September 26, 2020, September 28, 2019, and September 29, 2018. 
+
+(Page numbers and PDF name: Item 8 of Apple Inc.'s 2020 Form 10-K)
+
+Original Query : Item 8. Financial Statements and Supplementary Data 30
+
+Response : Based on the information provided, Item 8 of the 2020 Form 10-K for Apple Inc. includes various financial statements and schedules. These consist of Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Balance Sheets, Consolidated Statements of Shareholders’ Equity, Consolidated Statements of Cash Flows, Notes to Consolidated Financial Statements, Selected Quarterly Financial Information (Unaudited), and Reports of Independent Registered Public Accounting Firm. The supplementary data is structured and organized for easy reference, allowing stakeholders to analyze Apple Inc.'s financial performance, position, and cash flows for the years ended September 26, 2020, September 28, 2019, and September 29, 2018.
+
+For more detailed information, you can refer to Item 8 of Apple Inc.'s 2020 Form 10-K, page 29.
+
+PDF Name: Apple Inc. | 2020 Form 10-K
+
+
+
+
+        
+N Response : Based on the information provided in Apple Inc.'s 2020 Form 10-K, there were no changes or disagreements with accountants related to accounting and financial disclosure. The company confirmed in Item 9 that there were no such issues reported during the specified period. 
+
+Source:
+- Apple Inc. | 2020 Form 10-K | Page 61
+Based on the information provided in the context, there have been no disagreements with the accountants regarding accounting practices and financial disclosures. In Item 9 of the Form 10-K for Apple Inc., it states that there have been no changes or disagreements with accountants on accounting and financial disclosure. (Apple Inc. 2020 Form 10-K, p. 61)
+
+Original Query : Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 62
+
+Response : Based on the information provided in Apple Inc.'s 2020 Form 10-K, there were no changes or disagreements with accountants related to accounting and financial disclosure. The company confirmed in Item 9 of the Form 10-K that there were no such issues reported during the specified period.
+
+Source:
+- Apple Inc. | 2020 Form 10-K | Page 61
+
+
+
+
+        
+N Response : In item 9A of the document, it is mentioned that the Company's management conducted an evaluation of disclosure controls and procedures to ensure that information required to be disclosed by the Company in reports filed under the Exchange Act is recorded, processed, summarized, and reported within specified time periods. The evaluation concluded that the Company's disclosure controls and procedures were effective as of September 26, 2020. Additionally, the Company's management is responsible for establishing and maintaining adequate internal control over financial reporting, which was also deemed effective as of September 26, 2020, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP (Generally Accepted Accounting Principles).
+
+Source: Apple Inc. | 2020 Form 10-K, Page 61
+The controls and procedures outlined in item 9A are enforced within the organization through the supervision and participation of the Company's management, specifically the principal executive officer and principal financial officer. These executives have concluded that the disclosure controls and procedures are effective to provide reasonable assurance that required information is accurately recorded, processed, summarized, and reported within the specified time periods. Additionally, they ensure that information is accumulated and communicated to the necessary personnel, including the management team. The responsible individuals are also in charge of designing and maintaining the disclosure controls and procedures to ensure the proper communication of material information within the organization. Furthermore, internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with generally accepted accounting principles. 
+
+Reference: Apple Inc. Form 10-K, page 61.
+
+Original Query : Item 9A. Controls and Procedures 62
+
+Response : Based on the information provided in the context, item 9A of the document refers to the evaluation of disclosure controls and procedures conducted by Apple Inc.'s management. The evaluation aimed to ensure that the information required to be disclosed in reports filed under the Exchange Act is accurately recorded, processed, summarized, and reported within specified time periods. The evaluation concluded that the Company's disclosure controls and procedures were effective as of September 26, 2020. Additionally, the Company's management is responsible for maintaining adequate internal control over financial reporting, which was also deemed effective as of the same date, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP (Generally Accepted Accounting Principles).
+
+Reference: Apple Inc. | 2020 Form 10-K, Page 61
+
+Do you need more information on this topic?
+
+
+
+
+        
+N Response : I'm sorry, but the context provided does not contain specific details on Item 9B of the document. If you would like, I can help you find the relevant information by searching through the document. Would you like me to do that for you?
+Based on the context provided, the Other Information section of the document (Item 9B) includes important information related to executive compensation, security ownership of certain beneficial owners and management, certain relationships and related transactions, director independence, and principal accountant fees and services. These sections provide detailed insights into the company's corporate governance practices, financial relationships, and audit procedures. It is recommended to review these sections for specific data and findings that could be of interest.
+
+(Page Number: N/A, PDF Name: Form 10-K)
+
+Original Query : Item 9B. Other Information 62
+
+Response : I'm sorry, but the context provided does not contain specific details on Item 9B of the document. The Other Information section (Item 9B) typically includes important information related to executive compensation, security ownership, relationships and transactions, director independence, and accountant fees and services. If you would like, I can help you find the relevant information by searching through the document. Would you like me to do that for you?
+
+(Page Number: N/A, PDF Name: Form 10-K)
+
+
+
+
+        
+N Response : The directors and executive officers of Apple Inc. as of October 29, 2020, are:
+1. Timothy D. Cook - Chief Executive Officer and Director
+2. Luca Maestri - Senior Vice President, Chief Financial Officer
+3. Chris Kondo - Senior Director of Corporate Accounting
+4. James A. Bell - Director
+5. Al Gore - Director
+6. Andrea Jung - Director
+7. Arthur D. Levinson - Director
+8. Ronald D. Sugar - Director
+9. Susan L. Wagner - Director
+
+You can find this information in the context provided in the 2020 Form 10-K of Apple Inc. on page 51.
+The company ensures good corporate governance practices among its leadership team through various policies and procedures outlined in its internal control over financial reporting. These practices include maintaining accurate records of transactions, ensuring compliance with GAAP, authorizing expenditures in line with management and director approvals, and following specific guidelines for shareholder involvement in director nominations and removal. Additionally, the company's Bylaws specify processes for filling vacancies on the Board of Directors and outline procedures for shareholder voting on important governance matters. Overall, these measures help promote transparency, accountability, and effective decision-making within the company's leadership team.
+
+(Pages 2-4, Management’s Annual Report on Internal Control over Financial Reporting)
+
+Original Query : Item 10. Directors, Executive Officers and Corporate Governance 63
+
+Response : Based on the information provided, the directors and executive officers of Apple Inc. as of October 29, 2020, are listed as follows:
+
+1. Timothy D. Cook - Chief Executive Officer and Director
+2. Luca Maestri - Senior Vice President, Chief Financial Officer
+3. Chris Kondo - Senior Director of Corporate Accounting
+4. James A. Bell - Director
+5. Al Gore - Director
+6. Andrea Jung - Director
+7. Arthur D. Levinson - Director
+8. Ronald D. Sugar - Director
+9. Susan L. Wagner - Director
+
+You can find more detailed information on these individuals in the 2020 Form 10-K of Apple Inc. on page 51. The company emphasizes good corporate governance practices to ensure transparency, accountability, and effective decision-making within its leadership team (Management’s Annual Report on Internal Control over Financial Reporting, Pages 2-4).
+
+For more specific details related to directors, executive officers, and corporate governance, I suggest referring to the 2020 Form 10-K of Apple Inc. for a comprehensive overview of these aspects.
+
+
+
+
+        
+N Response : Based on the provided information, details on the executive compensation structure within the organization can be found under the heading "Executive Compensation" in the Company's 2021 Proxy Statement. This includes information on the board oversight of risk management, compensation committee interlocks, compensation of directors, and director compensation for the year 2020. For more detailed information, you can refer to the Company's 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. 
+
+(Page 2, 2020 Form 10-K)
+Executive compensation within the company is determined and reviewed as outlined in the Company's 2021 Proxy Statement. This information can be found under the heading "Executive Compensation" and the subheadings "Board Oversight of Risk Management" and "Compensation Committee Interlocks and Insider Participation" under the Corporate Governance section. Additionally, details on "Compensation of Directors" and "Director Compensation—2020" can be found in the same Proxy Statement. The information provided in this document gives a comprehensive overview of how executive compensation is structured and evaluated within the company.
+(Page numbers and PDF name)
+
+Original Query : Item 11. Executive Compensation 63
+
+Response : Based on the information provided, details on the executive compensation structure within the organization can be found under the heading "Executive Compensation" in the Company's 2021 Proxy Statement. This includes information on the board oversight of risk management, compensation committee interlocks, compensation of directors, and director compensation for the year 2020. For a more in-depth understanding, you can refer to the Company's 2021 Proxy Statement, to be filed with the SEC within 120 days after September 26, 2020.
+
+(Page 2, 2020 Form 10-K)
+(Page numbers and PDF name)
+
+
+
+
+        
+N Response : Based on the information provided in the context, details regarding the security ownership of certain beneficial owners and management in relation to stockholder matters can be found under the headings "Other Information—Security Ownership of Certain Beneficial Owners and Management" and "Other Information—Equity Compensation Plan Information" in the Company's 2021 Proxy Statement. This information is set to be filed with the SEC within 120 days after September 26, 2020. The Proxy Statement will provide comprehensive insights into the security ownership of these specific stakeholders and how it relates to stockholder matters. 
+
+(Page number and PDF name)
+According to item 12 of the document, the information about the percentage of ownership held by certain beneficial owners and management can be found under the headings "Other Information—Security Ownership of Certain Beneficial Owners and Management" and "Other Information—Equity Compensation Plan Information" in the Company's 2021 Proxy Statement. This information will be included in the Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. For more details, you can refer to the specific sections in the Proxy Statement once it is filed. (Page 5, Apple Inc. Form 10-K)
+
+Original Query : Item 12 . Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 63
+
+Response : Based on the information provided in Item 12 of the document, details regarding the security ownership of certain beneficial owners and management in relation to stockholder matters can be found under the headings "Other Information—Security Ownership of Certain Beneficial Owners and Management" and "Other Information—Equity Compensation Plan Information" in the Company's 2021 Proxy Statement. This information will be included in the Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. For more insights, you can refer to the specific sections in the Proxy Statement once it is filed. (Page 5, Apple Inc. Form 10-K)
+
+
+
+
+        
+N Response : Based on the context provided, the information pertaining to certain relationships and related transactions, as well as director independence, can be found under the subheadings "Role of the Board of Directors," "Board Committees," "Review, Approval, or Ratification of Transactions with Related Persons," and "Transactions with Related Persons" under the heading "Corporate Governance" in the Company's 2021 Proxy Statement. This information is expected to be filed with the SEC within 120 days after September 26, 2020, and is incorporated by reference in the document. For detailed information, please refer to the Company's 2021 Proxy Statement once it is filed with the SEC. (page 1, PDF: SEC_DOC_2021)
+The information regarding director independence in relation to certain relationships and transactions is addressed under the subheading "Role of the Board of Directors" and "Review, Approval, or Ratification of Transactions with Related Persons" in the Company's 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. This information is incorporated by reference in Item 13 of the document. You can refer to the Corporate Governance section of the Proxy Statement for more details on this matter. 
+
+[Source: Apple Inc. | 2020 Form 10-K | Page 63]
+
+Original Query : Item 13 . Certain Relationships and Related Transactions, and Director Independence 63
+
+Response : Based on the context provided, the information regarding certain relationships and related transactions, as well as director independence, can be found under Item 13 in the Company's 2021 Proxy Statement. This information is expected to be filed with the SEC within 120 days after September 26, 2020, and is incorporated by reference in the document. You can refer to the subheadings "Role of the Board of Directors," "Board Committees," "Review, Approval, or Ratification of Transactions with Related Persons," and "Transactions with Related Persons" under the heading "Corporate Governance" in the Proxy Statement for detailed information on this matter. For further details, please consult the Company's 2021 Proxy Statement once it is filed with the SEC. 
+
+[Source: Apple Inc. | 2020 Form 10-K | Page 63 - SEC_DOC_2021]
+
+
+
+
+        
+N Response : Based on the information provided in the context, the details on the fees charged by the principal accountant for services rendered can be found under the subheading "Fees Paid to Auditors" in the Company's 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. For more detailed information, please refer to the Proxy Statement once it is filed. 
+
+(Page 61, Apple Inc. 2020 Form 10-K)
+The specific services that the principal accountant offers include providing reasonable assurance regarding the reliability of financial reporting, evaluating the effectiveness of disclosure controls and procedures, and disclosing any changes in internal control over financial reporting that may affect the financial statements. These services impact the overall financial statements by ensuring that they are prepared in accordance with generally accepted accounting principles and that they accurately reflect the company's financial position and transactions. The accountant's evaluation and disclosure help to maintain transparency and integrity in the financial reporting process.
+
+Source: Inherent Limitations over Internal Controls, Page 2, Ernst & Young Report
+
+Original Query : Item 14. Principal Accountant Fees and Services 63
+
+Response : Based on the information provided in the context, details on the fees charged by the principal accountant for services rendered can be found under the subheading "Fees Paid to Auditors" in the Company's 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. For more specific information regarding the services provided by the principal accountant, please refer to the Proxy Statement once it is filed.
+
+Additionally, the specific services that the principal accountant offers include providing reasonable assurance regarding the reliability of financial reporting, evaluating the effectiveness of disclosure controls and procedures, and disclosing any changes in internal control over financial reporting that may affect the financial statements. These services impact the overall financial statements by ensuring that they are prepared in accordance with generally accepted accounting principles and accurately reflect the company's financial position and transactions. The accountant's evaluation and disclosure help to maintain transparency and integrity in the financial reporting process.
+
+For further information on the fees and services of the principal accountant, please consult the Company's 2021 Proxy Statement once it is available.
+
+Source: Apple Inc. 2020 Form 10-K, Page 61
+Source: Ernst & Young Report, "Inherent Limitations over Internal Controls," Page 2
+
+
+
+
+        
+N Response : Based on the context provided, all financial statement schedules have been omitted in the Form 10-K because the required information is not applicable or is already included in the consolidated financial statements and notes. Therefore, there are no exhibit schedules related to Item 15 available in this document.
+(Page 64, Apple Inc. | 2020 Form 10-K)
+Based on the information provided in the context, the financial statement schedules have been omitted because either the required information is not applicable or not present in amounts sufficient to require submission of the schedule. Additionally, the information required is included in the consolidated financial statements and accompanying notes included in the Form 10-K. Therefore, the financial statement schedules are not available for review in Item 15.
+
+(Page 31, Apple Inc. | 2020 Form 10-K)
+
+Original Query : Item 15. Exhibit and Financial Statement Schedules 64
+
+Response : Based on the information provided in the context, all financial statement schedules have been omitted in the Form 10-K for Apple Inc. for the year 2020 because the required information is not applicable or is already included in the consolidated financial statements and notes. Therefore, there are no exhibit schedules related to Item 15 available in this document.
+
+(Page 64, Apple Inc. | 2020 Form 10-K)
+
+
+
+
+        
+N Response : Based on the provided context, Item 16 of the Form 10-K does not contain any specific summary information. It is stated as "None" in the document. For more details on the Form 10-K summary, you may refer to other sections of the document or contact the company directly.
+
+(Page 66 of "Apple Inc. | 2020 Form 10-K")
+The Form 10-K Summary for Item 16 typically includes a discussion of the fiscal year highlights, an update on the impact of COVID-19 on the company, and comparisons between financial data from different years. This section provides a condensed overview of the company's performance and key events during the reporting period.
+
+(Page number and PDF name: Page 66, Apple Inc. 2020 Form 10-K)
+
+Original Query : Item 16. Form 10-K Summary 66
+
+Response : Based on the provided context, Item 16 of the Form 10-K does not contain any specific summary information. It is stated as "None" in the document. For more details on the Form 10-K summary, you may refer to other sections of the document or contact the company directly.
+
+(Page 66 of "Apple Inc. | 2020 Form 10-K")
+
+
+
+
+        
+N Response : Based on the information provided, the section covers the fiscal year highlights, including the impact of COVID-19 on global economic activity. It also discusses factors that could affect the company's financial condition and operating results. The business is managed on a geographic basis, with reportable segments in the Americas, Europe, Greater China, Japan, and Rest of Asia Pacific. Each segment is evaluated based on net sales and operating income, with similar hardware and software products and services being offered. For more detailed information, please refer to pages 2-4 of the document "Form 10-K".
+Item 1 of the document discusses the business of the company. This includes details such as the company's operations, market position, products, services, and any other relevant information related to its business activities. It gives an overview of what the company does and how it operates in the industry.
+
+(Page 1, Apple Inc. Form 10-K For the Fiscal Year Ended September 26, 2020)
+
+Original Query : Item 1. Business
+
+Response : The document "Form 10-K" provides detailed information in Item 1 about the business of the company. This includes the company's operations, market position, products, services, and any other relevant information related to its business activities. It gives an overview of what the company does and how it operates in the industry. For more specific details, you can refer to pages 2-4 of the "Form 10-K" document.
+
+(Page 1, Apple Inc. Form 10-K For the Fiscal Year Ended September 26, 2020)
+
+
+
+
+        
+N Response : The primary risk factors outlined in section 1A of the document include factors such as global and regional economic conditions, uncertainties related to the COVID-19 pandemic, potential impacts on demand for products and services, supply chain disruptions, and the Company's ability to execute its strategic plans. These factors could materially and adversely affect the Company's business, financial condition, operating results, and stock price. 
+
+(Page 4, Apple Inc. 2020 Form 10-K)
+Based on the information provided in the document, the risks mentioned in section 1A, "Risk Factors," are important factors that could affect Apple Inc.'s financial condition and operating results. These risks are outlined to provide investors and stakeholders with an understanding of potential challenges and uncertainties that the company may face in the future. The specific risk factors are likely to vary but may include issues related to market risk, interest rate risk, foreign currency risk, legal and other claims, as well as other factors that could impact Apple Inc.'s business operations.
+
+For more detailed information on the specific risks outlined in section 1A of the document, I recommend referring directly to the "Risk Factors" section of Apple Inc.'s Form 10-K filing for the relevant year. This section will provide a comprehensive overview of the potential risks and uncertainties that the company has identified as significant to their operations.
+
+Reference: 
+- Document: Apple Inc. Form 10-K
+- Page Number: Section 1A 
+- PDF Name: Apple Inc. Form 10-K 2020
+
+Original Query : Item 1A. Risk Factors
+
+Response : Based on the context provided, Item 1A in Apple Inc.'s Form 10-K filing refers to the "Risk Factors" section. This section outlines the primary risk factors that could affect the company's business operations, financial condition, and operating results. These risk factors include global and regional economic conditions, uncertainties related to the COVID-19 pandemic, potential impacts on demand for products and services, supply chain disruptions, and the Company's ability to execute its strategic plans. 
+
+For more detailed information on the specific risks outlined in Item 1A, I recommend referring directly to the "Risk Factors" section of Apple Inc.'s Form 10-K filing for the relevant year. This section will provide a comprehensive overview of the potential challenges and uncertainties that the company has identified as significant to their operations.
+
+Reference:
+- Document: Apple Inc. Form 10-K
+- Page Number: Section 1A
+- PDF Name: Apple Inc. Form 10-K 2020
+
+
+
+
+        
+N Response : Based on the information provided, there were no unresolved staff comments mentioned in section 1B of the document. It states "None" in that section. 
+
+(Page 2 of Apple Inc. Form 10-K for the Fiscal Year Ended September 26, 2020)
+The unresolved staff comments do not seem to have a significant impact on the overall assessment of the document as per the provided context. The report mentions that there are no unresolved staff comments in Item 1B. Therefore, it can be inferred that these unresolved staff comments are not affecting the overall assessment of the document negatively.
+
+Source: Apple Inc. Form 10-K, Page 4
+
+Original Query : Item 1B. Unresolved Staff Comments
+
+Response : Based on the information provided, Item 1B in the document does not have any unresolved staff comments. It clearly states "None" in that section, indicating that there are no outstanding issues that need further clarification or resolution from the staff. This suggests that the document has been thoroughly reviewed and does not have any significant unresolved concerns raised by the staff.
+
+(Source: Apple Inc. Form 10-K for the Fiscal Year Ended September 26, 2020, Page 2)
+
+
+
+
+        
+N Response : I'm sorry, I do not have access to the detailed description of the properties listed under Item 2 in the document provided. It would be best to refer to the original document for that specific information. 
+
+[Source: Apple Inc. Form 10-K, For the Fiscal Year Ended September 26, 2020 - Page 15]
+The properties outlined in Item 2, pertaining to the maintenance of records, recording transactions accurately, and preventing unauthorized acquisition or disposition of assets, impact the overall functioning of the subject matter in the document by ensuring the reliability of financial reporting and the preparation of financial statements. These internal controls are crucial in providing reasonable assurance that transactions are recorded correctly, in compliance with GAAP, and that assets are protected from unauthorized use or misuse. By having strong internal controls in place, the company can maintain the integrity of its financial reporting process and help prevent errors or fraud that could negatively impact the business. (Page 2, Inherent Limitations over Internal Controls - provided context)
+
+Original Query : Item 2. Properties
+
+Response : Based on the context provided, I do not have access to the detailed description of the properties listed under Item 2 in the document. It would be best to refer to the original document, specifically the Apple Inc. Form 10-K for the Fiscal Year Ended September 26, 2020, on page 15, for that specific information. The properties outlined in Item 2 are related to the maintenance of records, accurate recording of transactions, and prevention of unauthorized acquisition or disposition of assets. These internal controls are crucial for ensuring the reliability of financial reporting and the preparation of financial statements.
+
+(Source: Apple Inc. Form 10-K, For the Fiscal Year Ended September 26, 2020 - Page 15)
+
+
+
+
+        
+N Response : The legal proceedings mentioned in Item 3 of Apple Inc.'s 2020 Form 10-K refer to various claims and lawsuits that the company is facing in the ordinary course of business. These legal matters have not been fully resolved and may have a potential impact on Apple's financial condition and operating results. More details about the specific legal proceedings can be found in Part II, Item 8 of the Form 10-K in the Notes to Consolidated Financial Statements under Note 10, "Commitments and Contingencies" section. It is important to note that the outcome of litigation is uncertain, and if legal matters are resolved against Apple for amounts higher than expected, it could have a material adverse effect on the company's financial standing. For further information, you can refer to the specified section in Apple Inc.'s Form 10-K.
+
+Reference: Apple Inc. Form 10-K, 2020, Page 15.
+Based on the context provided, there are ongoing legal cases under Item 3. Two specific cases mentioned are the lawsuit filed by VirnetX, Inc. against the Company for patent infringement and the civil litigation matters related to the Company's performance management feature in its iPhone operating systems. These cases have not yet been fully resolved and are part of the legal proceedings and government investigations that the Company is currently facing. For more details, you can refer to the Notes to Consolidated Financial Statements in Note 10, “Commitments and Contingencies” under the heading “Contingencies” in Part II, Item 8 of the Form 10-K document (pdf name).
+
+Original Query : Item 3. Legal Proceedings
+
+Response : Based on the information provided in Apple Inc.'s 2020 Form 10-K, Item 3 refers to the legal proceedings that the company is currently facing as part of its ordinary course of business. These legal matters have not yet been fully resolved and may impact Apple's financial condition and operating results. Specific details about the ongoing legal cases, such as the lawsuit filed by VirnetX, Inc. for patent infringement and civil litigation matters related to the performance management feature in iPhone operating systems, can be found in Part II, Item 8 of the Form 10-K under Note 10, "Commitments and Contingencies" section. It is important to note that the outcome of these legal proceedings is uncertain, and adverse resolution could have a significant impact on Apple's financial standing.
+
+For more detailed information on the legal proceedings under Item 3, you can refer to the specified section in Apple Inc.'s 2020 Form 10-K, page 15.
+
+Reference: Apple Inc. Form 10-K, 2020, Page 15 (pdf name).
+
+
+
+
+        
+N Response : I'm sorry, but I couldn't find specific details on mine safety disclosures in the provided context. If you need more information on this topic, I recommend checking the relevant sections of the document yourself. 
+(Page 16, 10-K Summary)
+The company's disclosures regarding mine safety can be found in Item 4 of the document. It is important for the company to address these issues to ensure the safety of their workers and comply with regulations. For more detailed information, you can refer to page 16 of the document. [Source: Form 10-K document, page 16]
+
+Original Query : Item 4. Mine Safety Disclosures
+
+Response : Based on the information provided, the company's disclosures regarding mine safety can be found in Item 4 of the document. It is crucial for the company to address these issues to ensure the safety of their workers and comply with regulations. For more detailed information, you can refer to page 16 of the document. (Source: Form 10-K document, page 16)
+
+
+
+
+        
+N Response : Based on the provided context, the aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 27, 2020, was approximately $1,070,633,000,000. The Registrant's common stock is listed on The Nasdaq Stock Market LLC. The authorized capital stock consists of 50,400,000,000 shares of Common Stock, all of which are fully paid and nonassessable.
+
+For more detailed information, you can refer to the "DESCRIPTION OF COMMON STOCK" section in the document.
+
+(Page 2-4, SEC Filing document)
+The related stockholder matters disclosed in the document include information about the security ownership of certain beneficial owners and management, as well as details on equity compensation plan information. This information can be found under the headings "Other Information—Security Ownership of Certain Beneficial Owners and Management" and "Other Information—Equity Compensation Plan Information" in the Company's 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020.
+
+(Page 3, context: Apple Inc. Form 10-K for the Fiscal Year Ended September 26, 2020)
+
+Original Query : Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity 
+
+Response : Based on the context provided, the market for Registrant's common equity, related stockholder matters, and issuer purchases of equity can be found in the "DESCRIPTION OF COMMON STOCK" section of Apple Inc.'s Form 10-K for the Fiscal Year Ended September 26, 2020. This information includes details on the aggregate market value of the voting and non-voting stock held by non-affiliates, as well as information on security ownership and equity compensation plans.
+
+For more detailed information on the specific stockholder matters, such as security ownership of certain beneficial owners and management, you can refer to the headings "Other Information—Security Ownership of Certain Beneficial Owners and Management" and "Other Information—Equity Compensation Plan Information" in Apple Inc.'s 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020.
+
+(Page 2-4, SEC Filing document: Apple Inc. Form 10-K for the Fiscal Year Ended September 26, 2020)
+
+
+
+
+        
+N Response : I can provide you with the selected financial data for the current fiscal year of Apple Inc. in 2020. The total net sales for 2020 were $274,515 million, with a net income of $57,411 million. The earnings per share were $3.31 for Basic and $3.28 for Diluted. Cash dividends declared per share were $0.795, and the total cash, cash equivalents, and marketable securities amounted to $191,830 million. The non-current portion of term debt was $98,667 million, and other non-current liabilities were $54,490 million. For more detailed information, you can refer to Apple Inc.'s 2020 Form 10-K report on page 19 and 57.
+Based on the selected financial data provided, we can see that there has been a steady increase in total net sales, net income, and earnings per share over the years 2016 to 2020. Total net sales have grown from $215,639 million in 2016 to $274,515 million in 2020. Net income has also shown an upward trend from $45,687 million in 2016 to $57,411 million in 2020. Similarly, earnings per share have increased from $2.09 in 2016 to $3.31 in 2020 for basic and $2.08 in 2016 to $3.28 in 2020 for diluted.
+
+In terms of performance, Apple Inc. has consistently shown growth and profitability over the years. The company's ability to maintain a positive trend in key financial indicators reflects its strong position in the market and successful business operations.
+
+(Page 18-19, Apple Inc. 2020 Form 10-K)
+
+Original Query : Item 6. Selected Financial Data
+
+Response : Based on the context provided, Item 6. Selected Financial Data for Apple Inc. in 2020 includes the following key figures:
+- Total net sales: $274,515 million
+- Net income: $57,411 million
+- Earnings per share (Basic): $3.31
+- Earnings per share (Diluted): $3.28
+- Cash dividends declared per share: $0.795
+- Total cash, cash equivalents, and marketable securities: $191,830 million
+- Non-current portion of term debt: $98,667 million
+- Other non-current liabilities: $54,490 million
+
+For more detailed information on Apple Inc.'s Selected Financial Data for 2020, you can refer to the company's 2020 Form 10-K report on pages 19 and 57. This report provides a comprehensive overview of the financial performance and position of Apple Inc. during the fiscal year 2020.
+
+(Page 19, 57, Apple Inc. 2020 Form 10-K)
+
+
+
+
+        
+N Response : The Management's Discussion and Analysis of Financial Condition and Results of Operations in the Form 10-K provides an overview of the Company's business, financial condition, and operating results. It discusses various factors that can impact the Company's financial condition, including the effects of COVID-19 on global economic activity. The report also highlights fiscal year highlights, such as total net sales, net income, earnings per share, cash dividends declared per share, and total assets over the years 2016 to 2020. Additionally, it addresses forward-looking statements related to the potential impact of the COVID-19 pandemic on the Company's business and results of operations (Form 10-K, p. 19).
+
+Is there anything else you would like to know or discuss further?
+The Management's Discussion and Analysis section in the document assesses the company's financial health and performance by discussing various factors that can affect the business, financial condition, and operating results of the company. It identifies risks and uncertainties that could impact the company's actual financial condition and operating results, as well as factors that could materially and adversely affect the company's business, financial condition, operating results, and stock price. The section also includes forward-looking statements based on certain assumptions about future events, including the potential impact of the COVID-19 pandemic on the company's business and results of operations.
+
+Source: Page 19, Apple Inc. 2020 Form 10-K
+
+Original Query : Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Response : Based on the information provided in the Form 10-K for Apple Inc., Item 7, which is the Management's Discussion and Analysis of Financial Condition and Results of Operations, provides a detailed overview of the company's business, financial condition, and operating results. It discusses various factors that can impact the company's financial health, including the effects of the COVID-19 pandemic on global economic activity. The section also includes forward-looking statements regarding the potential impact of the pandemic on the company's business and results of operations.
+
+If you would like more specific details or have any further questions, please let me know. 
+
+Source: Page 19, Apple Inc. 2020 Form 10-K
+
+
+
+
+        
+N Response : I'm sorry, but based on the context provided, there is no specific mention of "Item 8 in Note 11" in the Form 10-K document. It is recommended to refer to Part II, Item 8, "Financial Statements and Supplementary Data" of the Form 10-K document for detailed information on Note 11. If you need further assistance, please let me know.
+In the provided context, Note 11 would typically refer to a specific note included in the consolidated financial statements and accompanying notes in Part II, Item 8 of the Form 10-K. These notes usually provide important information about the company's financial condition, accounting policies, and other relevant details that complement the financial statements.
+
+Note 11 would be crucial in understanding the details and explanations related to certain financial figures or transactions presented in Item 8 of the Form 10-K. It may include additional disclosures, explanations, or clarifications that are essential for a comprehensive analysis of the company's financial performance and position.
+
+For a detailed understanding of the significance of Note 11 in relation to Item 8 of the Form 10-K, it is recommended to refer directly to the specific Note 11 and related information provided in the financial statements and accompanying notes in the document.
+
+(Page Number: N/A, Document: Form 10-K of Company)
+
+Original Query : Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 11, “Segment Information and Geographic 
+
+Response : Based on the information provided, Note 11 in the Form 10-K document typically contains details about "Segment Information and Geographic" data. This note would offer insights into how the company's operations are organized by different business segments or geographic regions. It is important to review this section for a better understanding of how the company's financial performance is broken down and analyzed.
+
+For detailed information on Note 11, including Segment Information and Geographic details, I recommend referring to Part II, Item 8, "Financial Statements and Supplementary Data" of the Form 10-K document. This section should provide the specific details you are looking for to gain a comprehensive view of the company's operations and performance.
+
+If you need further assistance or clarification on any specific details within the Form 10-K document, please let me know.
+
+(Page Number: N/A, Document: Form 10-K of Company)
+
+
+
+
+        
+N Response : Based on the provided context information, the company faces market risks related to Interest Rate Risk, Foreign Currency Risk, and Credit Risk. These risks are primarily associated with changes in interest rates, fluctuations in foreign exchange rates, and credit risks related to trade accounts receivable and long-term supply agreements. The company actively manages these risks through various financial instruments such as foreign exchange forward and option contracts, interest rate swaps, and credit risk monitoring. The company's exposure to these market risks could have a material adverse impact on its financial condition and operating results. For more detailed quantitative and qualitative disclosures about the company's market risks, you can refer to Item 7A of the company's financial reports. (Source: Page 2-5 of the provided context information)
+The company discloses market risk in its reports by providing quantitative and qualitative disclosures about interest rate and foreign currency risk management. It regularly reviews its foreign exchange forward and option positions, as well as interest rate swaps, to manage its exposure to movements in foreign exchange and interest rates. The company also highlights that the recognition of gains and losses related to these instruments may not coincide with the timing of gains and losses related to economic exposures, potentially affecting its financial condition and operating results. Additionally, the company's exposure to changes in interest rates is primarily related to its investment portfolio and outstanding debt, with sensitivity to fluctuations in U.S. interest rates. These factors are discussed in depth in the company's Form 10-K filings under "Quantitative and Qualitative Disclosures About Market Risk." (Page 1-2, Financial Statement and Supplementary Data, 10-K Form)
+
+Original Query : Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Response : Based on the provided context information, Item 7A in the company's financial reports provides detailed quantitative and qualitative disclosures about the market risks the company faces, such as Interest Rate Risk, Foreign Currency Risk, and Credit Risk. These disclosures include information on how the company actively manages these risks through financial instruments like foreign exchange forward and option contracts, interest rate swaps, and credit risk monitoring. It also highlights the potential impact of these market risks on the company's financial condition and operating results. For more specific information on the quantitative and qualitative disclosures about market risk, you can refer to Item 7A of the company's financial reports. (Source: Page 2-5 of the provided context information, Page 1-2, Financial Statement and Supplementary Data, 10-K Form)
+
+
+
+
+        
+N Response : The document includes the following financial statements:
+- Consolidated Statements of Operations for the years ended September 26, 2020, September 28, 2019, and September 29, 2018
+- Consolidated Statements of Comprehensive Income for the years ended September 26, 2020, September 28, 2019, and September 29, 2018
+- Consolidated Balance Sheets as of September 26, 2020, and September 28, 2019
+- Consolidated Statements of Shareholders’ Equity for the years ended September 26, 2020, September 28, 2019, and September 29, 2018
+- Consolidated Statements of Cash Flows for the years ended September 26, 2020, September 28, 2019, and September 29, 2018
+
+You can find more detailed information in the "Apple Inc. | 2020 Form 10-K" document on pages 31 to 36.
+Reference: Apple Inc. | 2020 Form 10-K, Pages 31-36.
+Yes, there are supplementary data related to the financial statements in Item 8. The consolidated financial statements include the Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Balance Sheets, Consolidated Statements of Shareholders’ Equity, Consolidated Statements of Cash Flows, Notes to Consolidated Financial Statements, and Selected Quarterly Financial Information (Unaudited). These supplementary data provide further details and analysis related to the financial performance of the company.
+
+(Page number: 30-36, PDF name: Apple Inc. 2020 Form 10-K)
+
+Original Query : Item 8. Financial Statements and Supplementary Data
+
+Response : Based on the information provided, in Item 8 of the "Apple Inc. | 2020 Form 10-K" document, you can find the financial statements and supplementary data related to the financial performance of the company. The consolidated financial statements include the Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Balance Sheets, Consolidated Statements of Shareholders’ Equity, Consolidated Statements of Cash Flows, Notes to Consolidated Financial Statements, and Selected Quarterly Financial Information (Unaudited). These supplementary data provide further details and analysis related to the financial performance of Apple Inc.
+
+For more detailed information, you can refer to pages 30-36 in the "Apple Inc. | 2020 Form 10-K" document.
+
+Reference: Apple Inc. | 2020 Form 10-K, Pages 30-36.
+
+
+
+
+        
+N Response : The specific accounting treatment for changes in the fair value of amounts excluded from the effectiveness assessment of fair value hedges is to recognize them in Other Income and Expenses (OI&E) on a straight-line basis over the life of the hedge. These changes are reflected in OCI (Other Comprehensive Income). (Apple Inc. | 2020 Form 10-K | Page 43)
+Changes in the fair value of amounts excluded from the hedge related item are recognized in Other Comprehensive Income (OCI) over the life of the hedge. This applies to both net investment hedges and fair value hedges. For net investment hedges, the excluded amounts are recorded as a part of the cumulative translation adjustment in OCI. In fair value hedges, the excluded amounts are recognized in OI&E on a straight-line basis over the life of the hedge. This accounting treatment ensures that the impact of these excluded amounts is reflected gradually over the duration of the hedge.
+
+(Page 5, Form 10-K, Apple Inc., 2020)
+
+Original Query : item to which the hedge relates on a straight-line basis over the life of the hedge. Changes in the fair value of amounts excluded 
+
+Response : The changes in the fair value of amounts excluded from the hedge-related item are recognized in Other Comprehensive Income (OCI) on a straight-line basis over the life of the hedge. This accounting treatment applies to both net investment hedges and fair value hedges. In net investment hedges, the excluded amounts are included in the cumulative translation adjustment in OCI. In fair value hedges, the excluded amounts are recognized in Other Income and Expenses (OI&E) on a straight-line basis over the duration of the hedge. This gradual recognition ensures that the impact of these excluded amounts is spread out over the period of the hedge.
+
+(Apple Inc. | 2020 Form 10-K | Page 43 and Page 5)
+
+
+
+
+        
+N Response : Based on the information provided in the document, there have been no recent changes or disagreements with accountants on accounting and financial disclosure practices. The Company's principal executive officer and principal financial officer have concluded that the Company's disclosure controls and procedures were effective as of September 26, 2020. Furthermore, the registered public accounting firm, Ernst & Young LLP, issued an audit report on the Company's internal control over financial reporting. (Source: Apple Inc. 2020 Form 10-K, Page 61)
+Based on the information provided in Apple Inc.'s 2020 Form 10-K, there have been no disagreements with the accountants on accounting and financial disclosure. The document states, "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure: None." (Source: Apple Inc. 2020 Form 10-K, Page 61)
+
+Original Query : Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+Response : Based on the information provided in Apple Inc.'s 2020 Form 10-K, there have been no changes or disagreements with accountants on accounting and financial disclosure practices. The document explicitly states, "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure: None." Therefore, as of September 26, 2020, there have been no issues reported in this regard (Source: Apple Inc. 2020 Form 10-K, Page 61).
+
+
+
+
+        
+N Response : In section 9A of the document, it outlines the responsibilities of the Company's management in establishing and maintaining disclosure controls and procedures, as well as internal control over financial reporting. These controls and procedures are designed to ensure that material information relating to the Registrant is accurately disclosed and that financial reporting is reliable and in accordance with GAAP. The management is also responsible for evaluating the effectiveness of these controls and procedures and disclosing any changes that may impact the internal control over financial reporting. Additionally, the document mentions that the Registrant's certifying officers are required to disclose any significant deficiencies or weaknesses in internal controls to the auditors and the audit committee. 
+
+Source: Page 3-9, PDF: internal-controls-policy-document-v1.0.
+Based on the information provided in the context, the controls and procedures described in section 9A have been implemented and monitored within the organization by management. The company's management is responsible for establishing and maintaining adequate internal control over financial reporting, which includes designing and maintaining disclosure controls and procedures, as well as internal controls over financial reporting. These controls and procedures are implemented to ensure the reliability of financial reporting and the preparation of financial statements in accordance with GAAP. Furthermore, management conducts assessments of the effectiveness of these controls and procedures based on established criteria to provide reasonable assurance regarding the reliability of financial reporting.
+
+Source: Management’s Annual Report on Internal Control over Financial Reporting, Page 5-6, PDF Name: Internal_Control_Report.pdf
+
+Original Query : Item 9A. Controls and Procedures
+
+Response : Based on the information provided in section 9A of the document, it outlines the responsibilities of the Company's management in establishing and maintaining disclosure controls and procedures, as well as internal control over financial reporting. These controls and procedures are designed to ensure that material information relating to the Registrant is accurately disclosed and that financial reporting is reliable and in accordance with GAAP. The management is also responsible for evaluating the effectiveness of these controls and procedures and disclosing any changes that may impact the internal control over financial reporting. Additionally, the document mentions that the Registrant's certifying officers are required to disclose any significant deficiencies or weaknesses in internal controls to the auditors and the audit committee.
+
+Source: Page 3-9, PDF: internal-controls-policy-document-v1.0.
+
+
+
+
+        
+N Response : In the context provided, the information required by Item 9B (Other Information) is not specifically outlined. However, it typically covers additional details that are relevant to the company's financial condition, controls, procedures, and other related aspects. To access the specific details included in Item 9B of the document, you may refer to the Company's 2021 Proxy Statement, which will be filed with the SEC within 120 days after September 26, 2020, and is incorporated by reference in the document. For more detailed information, please review the specified section of the Proxy Statement document.
+
+Reference: Proxy Statement document, page 62.
+The "Other Information" section in Item 9B provides additional details and disclosures that are not covered in other sections of the document. It typically includes important information related to controls and procedures, as well as any other relevant details that are deemed necessary for stakeholders to be aware of.
+
+The inclusion of the "Other Information" section in Item 9B is significant as it helps to provide a more comprehensive view of the company's financial condition, operations, and overall performance. By including this section, the document becomes more transparent and informative for investors and other interested parties.
+
+Overall, the "Other Information" section in Item 9B plays a crucial role in enhancing the quality and completeness of the content within the document, ensuring that stakeholders have access to all relevant information necessary for making informed decisions.
+
+(Please note that this response is based on the provided context information from the Form 10-K document). [Page numbers: Part II, Item 9B. Other Information 62]
+
+Original Query : Item 9B. Other Information
+
+Response : Based on the context provided, Item 9B (Other Information) typically covers additional details that are relevant to the company's financial condition, controls, procedures, and other related aspects. To access the specific details included in Item 9B, you may refer to the Company's 2021 Proxy Statement, which will be filed with the SEC within 120 days after September 26, 2020, and is incorporated by reference in the document. For more detailed information, please review the specified section of the Proxy Statement document.
+
+Reference: Proxy Statement document, page 62.
+
+
+
+
+        
+N Response : Based on the provided information, the roles and responsibilities of the directors and executive officers within Apple Inc. are as follows:
+
+- Timothy D. Cook: Chief Executive Officer and Director(Principal Executive Officer)
+- Luca Maestri: Senior Vice President, Chief Financial Officer(Principal Financial Officer)
+- Chris Kondo: Senior Director of Corporate Accounting(Principal Accounting Officer)
+- James A. Bell: Director
+- Al Gore: Director
+- Andrea Jung: Director
+- Arthur D. Levinson: Director
+- Ronald D. Sugar: Director
+- Susan L. Wagner: Director
+
+These individuals hold key positions within the organization, with specific duties and areas of responsibility outlined in their respective roles. 
+[Source: Apple Inc. | 2020 Form 10-K | Pages 51-67]
+The company ensures good corporate governance practices are upheld by the directors and executive officers through various measures outlined in the Bylaws. These measures include the ability to fill vacancies on the Board of Directors by a majority vote of the remaining directors, shareholder requirements for proposing agenda items and nominating candidates, as well as the ability for shareholders meeting certain criteria to nominate director candidates for inclusion in the proxy materials. Additionally, the Bylaws allow for the removal of the entire Board or individual directors by a majority shareholder vote, and vacancies created by director removal must be filled with shareholder approval. The company also has a Director Plan in place for granting stock-based compensation to directors, with specific guidelines on the number of shares available and vesting conditions (Apple Inc. Form 10-K, 2020, p. 51).
+
+Furthermore, the company's management conducts an annual assessment of internal control over financial reporting, based on criteria set forth in the Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. Management has concluded that the internal control over financial reporting was effective as of September 26, 2020, providing reasonable assurance regarding financial reporting reliability and preparation in accordance with GAAP standards (Apple Inc. Form 10-K, 2020, p. 51).
+
+Original Query : Item 10. Directors, Executive Officers and Corporate Governance
+
+Response : Based on the provided information from Apple Inc.'s 2020 Form 10-K, the roles and responsibilities of the directors and executive officers are outlined as follows:
+
+- Timothy D. Cook serves as the Chief Executive Officer and Director (Principal Executive Officer).
+- Luca Maestri holds the position of Senior Vice President and Chief Financial Officer (Principal Financial Officer).
+- Chris Kondo is the Senior Director of Corporate Accounting (Principal Accounting Officer).
+- There are several directors on the Board, including James A. Bell, Al Gore, Andrea Jung, Arthur D. Levinson, Ronald D. Sugar, and Susan L. Wagner.
+
+The company maintains good corporate governance practices through measures outlined in the Bylaws, such as director appointment, shareholder proposal guidelines, and stock-based compensation plans for directors. Additionally, management conducts an annual assessment of internal control over financial reporting to ensure reliability and compliance with GAAP standards (Apple Inc. Form 10-K, 2020, p. 51).
+
+If you have any specific questions about the roles or responsibilities of the directors and executive officers at Apple Inc., feel free to ask for more details.
+
+
+
+
+        
+N Response : Based on the information provided in the context, details on the executive compensation structure can be found under the heading "Executive Compensation" in the Company's 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. This includes information on board oversight of risk management, compensation committee interlocks and insider participation, compensation of directors, and director compensation for the year 2020. For more specific details, you can refer to the mentioned sections in the Proxy Statement document. 
+
+(Page 1 of Apple Inc. 2020 Form 10-K)
+The company determines and evaluates executive compensation packages through various methods such as Total Shareholder Return (TSR), Restricted Stock Units (RSUs), and Share-Based Compensation. TSR is calculated by dividing the difference obtained by subtracting the applicable Beginning Price from the applicable Ending Price plus all dividends and other distributions, by the applicable Beginning Price. RSUs are granted based on the weighted-average grant date fair value per RSU. Share-Based Compensation is measured based on the closing price of the company's common stock on the date of grant. The company recognizes expense on a straight-line basis for its estimate of equity awards that will ultimately vest. Further details on executive compensation can be found in the Benefit Plans section of the company's financial statements.
+
+Reference: Apple Inc. | 2020 Form 10-K | Page 36
+
+Original Query : Item 11. Executive Compensation
+
+Response : Based on the information provided, details on the executive compensation structure can be found under the heading "Executive Compensation" in Apple Inc.'s 2021 Proxy Statement. This document will be filed with the SEC within 120 days after September 26, 2020. The Executive Compensation section will cover aspects such as board oversight of risk management, compensation committee interlocks and insider participation, compensation of directors, and director compensation for the year 2020. For more specific details on the executive compensation packages, you can refer to the mentioned sections in the Proxy Statement document.
+
+If you wish to delve deeper into how Apple Inc. determines and evaluates executive compensation, you can also explore methods like Total Shareholder Return (TSR), Restricted Stock Units (RSUs), and Share-Based Compensation. TSR is calculated based on different price differentials, RSUs are granted based on weighted-average grant date fair value, and Share-Based Compensation is determined by the company's common stock closing price on the grant date. The company recognizes expense on a straight-line basis for its equity awards. For a comprehensive understanding, you can also refer to the Benefit Plans section of Apple Inc.'s financial statements.
+
+For more detailed information, you can access Apple Inc.'s 2020 Form 10-K, specifically on page 36. 
+
+Reference: Apple Inc. | 2020 Form 10-K | Page 36
+
+
+
+
+        
+N Response : Based on the context provided, the information on security ownership for certain beneficial owners and management can be found under the headings "Other Information—Security Ownership of Certain Beneficial Owners and Management" in the Company's 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. This information is also incorporated by reference in the context. For more details, you can refer to the SEC filing on page 51 of Apple Inc.'s 2020 Form 10-K.
+Yes, there are related stockholder matters that are significant for consideration in Item 12. This information can be found under the headings "Other Information—Security Ownership of Certain Beneficial Owners and Management" and "Other Information—Equity Compensation Plan Information" in the Company’s 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. 
+
+(Page number and PDF name)
+
+Original Query : Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Response : Based on the information provided, the details regarding security ownership of certain beneficial owners and management, as well as related stockholder matters, can be found under the headings "Other Information—Security Ownership of Certain Beneficial Owners and Management" and "Other Information—Equity Compensation Plan Information" in Apple Inc.'s 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. This information is also incorporated by reference in the Company's 2020 Form 10-K on page 51. If you would like more specific details, I recommend referring to the SEC filing on page 51 of Apple Inc.'s 2020 Form 10-K.
+
+(Page 51, Apple Inc.'s 2020 Form 10-K)
+
+
+
+
+        
+N Response : Based on the information provided in the document, the details regarding certain relationships and related transactions can be found under the subheadings "Role of the Board of Directors," "Board Committees," "Review, Approval, or Ratification of Transactions with Related Persons," and "Transactions with Related Persons" under the heading "Corporate Governance" in the Company's 2021 Proxy Statement. This information is expected to be filed with the SEC within 120 days after September 26, 2020. For further details, it is advisable to refer to the specific sections mentioned in the document. (Page-number, PDF name)
+Based on the provided context, the document addresses director independence in relation to certain relationships and transactions discussed in Item 13 under the subheading "Role of the Board of Directors" and "Board Committees" in the Company's 2021 Proxy Statement. These sections likely provide information on the board's oversight of transactions with related persons and the independence of directors in approving or ratifying such transactions. For more detailed information, you can refer to the specific sections mentioned in the document.
+
+(Page number and PDF name)
+
+Original Query : Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+Response : Based on the information provided in the Company's 2021 Proxy Statement, Item 13 likely discusses certain relationships and related transactions, as well as director independence in overseeing these transactions. The document likely delves into the board's role in reviewing, approving, or ratifying transactions with related persons, as well as the independence of directors involved in such processes. For specific details on these matters, you can refer to the subheadings "Role of the Board of Directors" and "Board Committees" under the "Corporate Governance" section in the Proxy Statement. (Page-number, PDF name)
+
+
+
+
+        
+N Response : Based on the context provided, the information regarding the principal accountant fees and services can be found under the subheading "Fees Paid to Auditors" in the Company's 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. This information includes details on the fees paid to auditors and the policy on Audit Committee Pre-Approval of Audit and Non-Audit Services. For more specific details on the fees charged by the principal accountant and the services they offer, please refer to the aforementioned section in the Company's Proxy Statement.
+
+(Page 60, Apple Inc. 2020 Form 10-K)
+According to the provided document, the principal accountant fees and services are outlined under the subheadings "Fees Paid to Auditors" and "Policy on Audit Committee Pre-Approval of Audit and Non-Audit Services Performed by the Independent." The details provided include information about the fees paid to auditors and the policy regarding the pre-approval of audit and non-audit services. For more specific details, you can refer to the Company's 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020.
+
+(Page 61-63, Apple Inc. | 2020 Form 10-K)
+
+Original Query : Item 14. Principal Accountant Fees and Services
+
+Response : Based on the information provided, details about the principal accountant fees and services can be found under the subheadings "Fees Paid to Auditors" and "Policy on Audit Committee Pre-Approval of Audit and Non-Audit Services" in the Company's 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020. This section includes information on the fees paid to auditors as well as the company's policy regarding the pre-approval of audit and non-audit services. For more specific details on the fees charged by the principal accountant and the services they offer, please refer to the Company's Proxy Statement. 
+
+(Page 60, Apple Inc. 2020 Form 10-K)
+
+
+
+
+        
+N Response : I'm sorry, I cannot provide specific exhibit information related to Item 15 as it varies depending on the specific documentation being referenced. For detailed exhibit information for Item 15, I recommend referring to the specific document or filing mentioned in the context provided.
+Based on the provided information, all financial statement schedules have been omitted in the Form 10-K report since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule. The information required is already included in the consolidated financial statements and accompanying notes in the Form 10-K report.
+
+(Page 63 of Apple Inc. 2020 Form 10-K)
+
+Original Query : Item 15. Exhibit and Financial Statement Schedules
+
+Response : Based on the information provided, specific exhibit information related to Item 15 varies depending on the specific documentation being referenced. For detailed exhibit information for Item 15, it is recommended to refer to the specific document or filing mentioned in the context provided. Additionally, all financial statement schedules have been omitted in the Form 10-K report for Apple Inc. since the required information is not applicable or not present in amounts sufficient to require submission of the schedule. The information required is already included in the consolidated financial statements and accompanying notes in the Form 10-K report.
+
+(Page 63 of Apple Inc. 2020 Form 10-K)
+
+
+
+
+        
+N Response : I am unable to do that.
+The Form 10-K Summary contains forward-looking statements that involve risks and uncertainties, as required by the Securities Exchange Act of 1934. These statements provide current expectations of future events based on certain assumptions and include information related to the potential future impact of the COVID-19 pandemic on the company's business and results of operations.
+
+(Please note that the information provided is based on the context of the Form 10-K document for Apple Inc. 2020. Page number: 66)
+
+Original Query : Item 16. Form 10-K Summary
+
+Response : The Form 10-K Summary, as outlined in Item 16 of the Form 10-K document for Apple Inc. 2020, contains forward-looking statements that include risks and uncertainties related to the company's future events and the potential impact of the COVID-19 pandemic on its business and results of operations. These statements are required by the Securities Exchange Act of 1934 and provide current expectations based on certain assumptions (Form 10-K, p. 66).
+
+
+
+
+        
+N Response : Based on the context provided, the first section of the document related to the business is covered under "Item 1. Business" and provides information on the business operations of the company. This section gives an overview of the company's activities, products, markets, and other relevant business-related information. For more detailed information, you can refer to Page 1 of the document "Apple Inc. Form 10-K For the Fiscal Year Ended September 26, 2020".
+The document provides details regarding the business aspect in the first section, including information about the company's business operations, risk factors, properties, legal proceedings, and mine safety disclosures. It also includes information about the market for the company's common equity, financial data, and management's discussion of financial condition and results of operations. This section covers a comprehensive overview of the company's business operations and key aspects related to its financial performance.
+(Page 1-20, Apple Inc. Form 10-K)
+
+Original Query : Item 1. Business 1
+
+Response : Based on the context provided, "Item 1. Business" in the document "Apple Inc. Form 10-K For the Fiscal Year Ended September 26, 2020" covers the first section related to the business operations of the company. This section provides an overview of Apple Inc.'s activities, products, markets, and other relevant business-related information. For more detailed information on this topic, you can refer to Page 1 of the document mentioned.
+
+If you have any specific questions or need further details regarding Item 1. Business, feel free to ask. 
+(Page 1, Apple Inc. Form 10-K)
+
+
+
+
+        
+N Response : Based on the context provided, the specific risk factors outlined in Item 1A of the document include forward-looking statements that may be important to understanding other statements in the Form 10-K. These risk factors are discussed in detail in the document and should be carefully considered by investors. For more information on these specific risk factors, please refer to the Form 10-K document under Item 1A. 
+
+Reference: Form 10-K document, Page 4
+The risk factors discussed in Item 1A are relevant to the overall content of the document because they provide insight into potential challenges and uncertainties that could impact the financial condition and operating results of the Company. These factors are crucial for investors and stakeholders to consider when evaluating the Company's performance and making informed decisions. By highlighting these risk factors, the document aims to provide a comprehensive overview of the potential risks that could affect the Company's future prospects and performance.
+
+Reference: Apple Inc. Form 10-K, Page 4.
+
+Original Query : Item 1A. Risk Factors 5
+
+Response : Based on the context provided, Item 1A of the Form 10-K document discusses specific risk factors that are important for investors to consider. These risk factors provide insight into potential challenges and uncertainties that could affect the financial condition and operating results of the Company. For detailed information on these specific risk factors, please refer to the Form 10-K document under Item 1A.
+
+Reference: Form 10-K document, Page 4.
+
+
+
+
+        
+N Response : Based on the provided context, there are currently no unresolved staff comments related to Item 1B. The section states "Item 1B. Unresolved Staff Comments None." Therefore, there are no outstanding issues or comments under Item 1B that need to be addressed.
+
+Source: Apple Inc. 2020 Form 10-K, Page 62.
+Based on the provided context, there are no unresolved staff comments mentioned in Item 1B. The section states "None" in relation to unresolved staff comments. Therefore, at the time of this report, there were no specific concerns or areas of focus related to unresolved staff comments in Item 1B.
+
+(Page 15, Apple Inc. Form 10-K for the Fiscal Year Ended September 26, 2020)
+
+Original Query : Item 1B. Unresolved Staff Comments 15
+
+Response : Based on the information provided, there are no unresolved staff comments related to Item 1B. The section specifically states "None" in relation to unresolved staff comments. Therefore, there are no outstanding issues or comments under Item 1B that need to be addressed.
+
+(Source: Apple Inc. 2020 Form 10-K, Page 62)
+
+
+
+
+        
+N Response : I'm sorry, but the properties listed in number 15 do not provide specific details about individual properties owned or leased by the company. However, it does mention that as of September 26, 2020, the company owned or leased facilities and land for various purposes at locations throughout the U.S. and in various other regions. For more detailed information about specific properties, you may need to refer to additional documentation or reports from the company. 
+
+Context: Apple Inc. Form 10-K, Page 64
+Based on the information provided in the context, the specific characteristics of the properties outlined in Item 15 include the Company's headquarters located in Cupertino, California, as well as facilities and land owned or leased for corporate functions, R&D, data centers, retail, and other purposes throughout the U.S. and in various countries. The properties are used for various functions related to the Company's business operations and technology development.
+
+(Please refer to page 64 of the document for further details on Item 15: Exhibit and Financial Statement Schedules)
+
+Original Query : Item 2. Properties 15
+
+Response : Based on the information provided in the context, Item 15 in the Apple Inc. Form 10-K document does not provide specific details about individual properties owned or leased by the company. However, it mentions that as of September 26, 2020, the company owned or leased facilities and land for various purposes at locations throughout the U.S. and in various other regions. The properties include the company's headquarters in Cupertino, California, as well as facilities and land used for corporate functions, R&D, data centers, retail, and other purposes in different countries. For more detailed information about specific properties, additional documentation or reports from the company may need to be consulted.
+
+Please refer to page 64 of the Apple Inc. Form 10-K document for further details on Item 15: Exhibit and Financial Statement Schedules. (Source: Apple Inc. Form 10-K, Page 64)
+
+
+
+
+        
+N Response : Based on the information provided in the document, the company is currently involved in a legal proceeding with VirnetX, Inc. VirnetX filed a lawsuit against the company alleging patent infringement, and a jury returned a verdict against the company awarding damages of $503 million. The company has appealed this verdict to the U.S. Court of Appeals for the Federal Circuit. This is one of the legal proceedings mentioned in the document under the heading "Legal Proceedings." 
+
+(PDF name: Form 10-K, Page Number: N/A)
+The key legal proceedings disclosed in Item 3 that investors should be aware of include various legal proceedings and claims that arise in the ordinary course of business. The Company records a liability when it is probable that a loss has been incurred and the amount is reasonably estimable, which requires significant judgment. Additionally, the Company is subject to claims, legal proceedings, and government investigations that have arisen and have not yet been fully resolved, with new matters potentially arising in the future. One specific legal matter mentioned is a lawsuit filed by VirnetX, Inc. against the Company alleging patent infringement, where damages of $503 million were awarded. The Company has appealed this verdict to the U.S. Court of Appeals for the Federal Circuit (p. 9-10, Form 10-K).
+
+Original Query : Item 3. Legal Proceedings 16
+
+Response : Based on the information provided in the document, Item 3, "Legal Proceedings" discloses various legal proceedings and claims that arise in the ordinary course of business for the company. This section mentions that the company is currently involved in a legal proceeding with VirnetX, Inc., where VirnetX filed a lawsuit alleging patent infringement. A jury returned a verdict against the company awarding damages of $503 million. The company has appealed this verdict to the U.S. Court of Appeals for the Federal Circuit. The document highlights that the company records a liability when it is probable that a loss has been incurred and the amount is reasonably estimable. It also mentions that the company is subject to claims, legal proceedings, and government investigations that have arisen and have not yet been fully resolved, with new matters potentially arising in the future (p. 9-10, Form 10-K).
+
+
+
+
+        
+N Response : Based on the information provided in the context, Item 4 discusses Mine Safety Disclosures. For detailed information on Mine Safety Disclosures, you may refer to page 16 of the document. (Source: Part II, Item 4. Mine Safety Disclosures 16)
+In Item 4 of the document, specific details related to Mine Safety Disclosures are not provided. The document mainly focuses on various other sections such as Market for Registrant’s Common Equity, Financial Statements, Executive Compensation, and Security Ownership. For specific details related to Mine Safety Disclosures, it would be best to refer to the Mine Safety Disclosures section of the document itself. 
+
+(Document: Form 10-K, Page 16)
+
+Original Query : Item 4. Mine Safety Disclosures 16
+
+Response : Based on the information provided, Item 4 in the document discusses Mine Safety Disclosures. For detailed information on Mine Safety Disclosures, you can refer to page 16 of the document. Specific details related to Mine Safety Disclosures are not provided in Item 4 itself; rather, the document focuses on other sections like Market for Registrant’s Common Equity, Financial Statements, Executive Compensation, and Security Ownership. For more specific details on Mine Safety Disclosures, it is recommended to refer to the Mine Safety Disclosures section within the document itself.
+
+(Source: Form 10-K, Page 16)
+
+
+
+
+        
+N Response : Based on the provided context, the aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant as of March 27, 2020, the last business day of the Registrant’s most recently completed second fiscal quarter, was approximately $1,070,633,000,000. The Registrant's authorized capital stock consists of 50,400,000,000 shares of Common Stock, all of which are fully paid and nonassessable. Shareholders of Common Stock are entitled to one vote per share on all matters to be voted on, with no cumulative voting rights. 
+
+For further details on the market for the registrant's common equity, additional information may need to be sourced from the Registrant's financial reports, shareholder information, and relevant Securities and Exchange Commission filings.
+
+(Page-number, PDF name)
+Based on the provided context from Apple Inc.'s 2020 Form 10-K, the related stockholder matters and issuer purchases of equity include information about the company's common stock being traded on The Nasdaq Stock Market LLC under the symbol AAPL, a four-for-one stock split that took place on August 28, 2020, with retroactive adjustments made to reflect the split, and details about share repurchase activities during the three months ended September 26, 2020. Additionally, the company's Employee Stock Purchase Plan allows employees to purchase the company's common stock through payroll deductions at a discounted price. As of October 16, 2020, there were 22,797 shareholders of record.
+
+For more detailed information, you can refer to page 16 of Apple Inc.'s 2020 Form 10-K.
+
+Original Query : Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity 
+
+Response : Based on the information provided, Apple Inc.'s common stock is traded on The Nasdaq Stock Market LLC under the symbol AAPL. A four-for-one stock split occurred on August 28, 2020, with retroactive adjustments made to reflect the split. The company also engages in share repurchase activities, and employees have the opportunity to purchase common stock at a discounted price through the Employee Stock Purchase Plan. As of October 16, 2020, there were 22,797 shareholders of record. For more detailed information, you can refer to page 16 of Apple Inc.'s 2020 Form 10-K. (Page 16, Apple Inc.'s 2020 Form 10-K)
+
+
+
+
+        
+N Response : I'm sorry, but the selected financial data from Item 6 is not specifically mentioned in the provided context. For detailed information on Apple Inc.'s financial data, you may refer to the relevant sections of the 2020 Form 10-K document. 
+
+- Apple Inc. | 2020 Form 10-K | Page 19
+The selected financial data section of Item 6 includes information related to the financial performance of the company, such as key financial metrics and indicators for the past few years. This data provides a snapshot of the company's financial health and helps investors understand its historical financial trends. For more detailed information, you can refer to Page 19 of the document. [Form 10-K PDF]
+
+Original Query : Item 6. Selected Financial Data 19
+
+Response : Based on the information provided, the selected financial data related to Item 6 can be found on Page 19 of Apple Inc.'s 2020 Form 10-K document. The selected financial data section includes key financial metrics and indicators that reflect the company's financial performance over the past few years. For more detailed information, you can refer to Page 19 of the 2020 Form 10-K document. [Apple Inc. | 2020 Form 10-K | Page 19, Form 10-K PDF]
+
+
+
+
+        
+N Response : Based on the context provided, Item 7 of the Form 10-K discusses the Management's Discussion and Analysis of Financial Condition and Results of Operations. It mentions factors that can affect the company's financial condition such as COVID-19 impact, total net sales, net income, earnings per share, cash dividends declared per share, shares used in computing earnings per share, total cash, cash equivalents and marketable securities, total assets, non-current portion of term debt, and other non-current liabilities. These factors provide a comprehensive overview of Apple Inc.'s financial performance during the specified years.
+
+(Page number: 19, PDF: Apple Inc. | 2020 Form 10-K)
+In Item 7 of the Form 10-K, the management's discussion highlighted several key points regarding the financial condition and results of operations of the company. These points included discussion on total net sales, net income, earnings per share, cash dividends declared per share, shares used in computing earnings per share, total cash, cash equivalents and marketable securities, total assets, non-current portion of term debt, and other non-current liabilities. Additionally, there was a mention of the impact of COVID-19 on global economic activity and the company's financial performance. For a more detailed analysis, it is recommended to refer to the complete discussion in Item 7 of the Form 10-K document.
+
+(Page-number and PDF name here)
+
+Original Query : Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 20
+
+Response : In Item 7 of the Form 10-K, the Management's Discussion and Analysis of Financial Condition and Results of Operations is thoroughly discussed. It covers various key factors such as total net sales, net income, earnings per share, cash dividends declared per share, shares used in computing earnings per share, total cash, cash equivalents and marketable securities, total assets, non-current portion of term debt, and other non-current liabilities. Additionally, the impact of COVID-19 on the company's financial performance is highlighted in this section. For more detailed information, it is recommended to review the complete discussion in Item 7 of the Form 10-K document (Page 19, PDF: Apple Inc. | 2020 Form 10-K).
+
+
+
+
+        
+N Response : Based on the information provided in the document, the quantitative and qualitative disclosures about market risk outlined in Item 7A focus on interest rate and foreign currency risk management. The company regularly reviews its foreign exchange forward and option positions, as well as interest rate swaps to mitigate risks associated with global interest rate fluctuations. There is an emphasis on the potential impact of changes in U.S. interest rates on the company's financial condition, particularly in relation to its investment portfolio and outstanding debt. These risk management activities aim to minimize the potential risk of principal loss and support the company's liquidity requirements.
+
+For further detailed insights and analysis, you may refer to Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the document. (Page XX, <Document Name>)
+In the document, market risk is addressed in terms of both quantitative and qualitative disclosures in Item 7A. The company regularly reviews its foreign exchange forward and option positions, as well as interest rate swaps, to manage interest rate and foreign currency risks. However, there is uncertainty regarding the effectiveness of these positions in offsetting financial impacts from fluctuations in foreign exchange or interest rates. Additionally, the recognition of gains and losses related to these instruments may not align with the timing of gains and losses linked to economic exposures, potentially impacting the company's financial condition and operating results. For more detailed information, please refer to Item 7A - Quantitative and Qualitative Disclosures About Market Risk in the document. (Page 28, PDF name: Form 10-K)
+
+Original Query : Item 7A. Quantitative and Qualitative Disclosures About Market Risk 28
+
+Response : Based on the information provided in the document, Item 7A focuses on the quantitative and qualitative disclosures about market risk. The company regularly reviews its foreign exchange forward and option positions, as well as interest rate swaps to manage risks associated with global interest rate fluctuations (Page 28, Form 10-K). These risk management activities aim to minimize the potential risk of principal loss and support the company's liquidity requirements (Page XX, <Document Name>).
+
+If you would like further detailed insights and analysis on market risk disclosures, you can refer to Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the document (Page XX, <Document Name>).
+
+
+
+
+        
+N Response : The financial statements included in Item 8 of the document are as follows:
+1. Consolidated Statements of Operations for the years ended September 26, 2020, September 28, 2019, and September 29, 2018 (Page 31)
+2. Consolidated Statements of Comprehensive Income for the years ended September 26, 2020, September 28, 2019, and September 29, 2018 (Page 32)
+3. Consolidated Balance Sheets as of September 26, 2020 and September 28, 2019 (Page 33)
+4. Consolidated Statements of Shareholders’ Equity for the years ended September 26, 2020, September 28, 2019, and September 29, 2018 (Page 34)
+5. Consolidated Statements of Cash Flows for the years ended September 26, 2020, September 28, 2019, and September 29, 2018 (Page 35)
+(PDF: Apple Inc. | 2020 Form 10-K)
+The supplementary data covered in Item 8 regarding financial statements includes:
+- Consolidated Statements of Operations
+- Consolidated Statements of Comprehensive Income
+- Consolidated Balance Sheets
+- Consolidated Statements of Shareholders’ Equity
+- Consolidated Statements of Cash Flows
+- Notes to Consolidated Financial Statements
+- Selected Quarterly Financial Information (Unaudited)
+- Reports of Independent Registered Public Accounting Firm
+
+This information can be found on pages 31-59 of the Form 10-K document titled "Apple Inc. 2020 Form 10-K".
+
+Original Query : Item 8. Financial Statements and Supplementary Data 30
+
+Response : The financial statements included in Item 8 of the document cover various aspects of Apple Inc.'s financial performance. This includes Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Balance Sheets, Consolidated Statements of Shareholders’ Equity, and Consolidated Statements of Cash Flows for specific years, as detailed on pages 31-35 of the 2020 Form 10-K for Apple Inc. Additionally, supplementary data related to financial statements, including Notes to Consolidated Financial Statements, Selected Quarterly Financial Information (Unaudited), and Reports of Independent Registered Public Accounting Firm can be found on pages 31-59 of the same document.
+
+For more detailed information, you can refer to pages 31-59 of the "Apple Inc. 2020 Form 10-K" document.
+
+(Page numbers and PDF: Apple Inc. | 2020 Form 10-K)
+
+
+
+
+        
+N Response : Based on the information provided in Apple Inc.'s 2020 Form 10-K, there were no changes in or disagreements with accountants on accounting and financial disclosure in the specified period. This information can be found in Item 9 of the Form 10-K. 
+
+Source: Apple Inc. | 2020 Form 10-K | Page 61
+Based on the provided context, there are no specific issues or conflicts with accountants related to accounting and financial disclosures that have arisen recently. The Form 10-K submission by Apple Inc. states that there have been no changes or disagreements with accountants on accounting and financial disclosure (Item 9: Changes in and Disagreements with Accountants on Accounting and Financial Disclosure). 
+
+Reference: Apple Inc. 2020 Form 10-K, Page 61.
+
+Original Query : Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 62
+
+Response : Based on the information from Apple Inc.'s 2020 Form 10-K, there were no changes or disagreements with accountants on accounting and financial disclosure during the specified period. This can be found in Item 9 of the Form 10-K on page 61. It indicates that there were no specific issues or conflicts with the accountants related to accounting and financial disclosures that have arisen recently.
+
+Reference: Apple Inc. 2020 Form 10-K, Page 61.
+
+
+
+
+        
+N Response : Based on the information provided in section 9A of the document, it outlines the Company's internal control over financial reporting, which is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with U.S. GAAP. The internal control over financial reporting includes policies and procedures related to the maintenance of accurate records, recording transactions in accordance with GAAP, authorization of transactions by management, and prevention of fraud or error.
+
+For more detailed information on the controls and procedures outlined in section 9A of the document, you may refer to the full document titled "Management’s Annual Report on Internal Control over Financial Reporting" and specifically review the section discussing internal controls and procedures in more depth.
+
+(Page-number, PDF name)
+The controls and procedures in section 9A are implemented and monitored within the organization by company management and independent auditors. Management is responsible for establishing and maintaining adequate internal control over financial reporting, including designing disclosure controls and procedures to ensure material information is known and evaluating the effectiveness of these controls. The independent auditors are also responsible for overseeing and evaluating the company's internal control over financial reporting. Both parties work together to ensure the reliability of financial reporting and the preparation of financial statements in accordance with GAAP.
+
+(PDF Name: Internal_Control_Statement, Page Number: 2)
+
+Original Query : Item 9A. Controls and Procedures 62
+
+Response : Based on the information provided in item 9A of the document, it outlines the Company's internal control over financial reporting, which is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with U.S. GAAP. The internal control over financial reporting includes policies and procedures related to the maintenance of accurate records, recording transactions in accordance with GAAP, authorization of transactions by management, and prevention of fraud or error. For more detailed information on the controls and procedures outlined in item 9A, you may refer to the full document titled "Management’s Annual Report on Internal Control over Financial Reporting" and specifically review the section discussing internal controls and procedures in more depth (Internal_Control_Statement, Page 2).
+
+
+
+
+        

@@ -1,0 +1,10 @@
+langchain 
+langchain_openai
+langchain_community 
+
+faiss-cpu
+
+openai
+
+halo
+tqdm

@@ -1,0 +1,1125 @@
+
+Original Query : Item 1. Business 1
+
+Times to run : 2
+
+New Queries : 1. Can you provide more details about the key components of the business section in the document?
+2. How does the business aspect discussed in the document contribute to the overall content?
+
+
+
+
+        
+Original Query : Item 1A. Risk Factors 5
+
+Times to run : 2
+
+New Queries : 1. Can you provide detailed information on the risk factors associated with Item 1A of the document?
+2. How does Item 1A address potential risks in the context of the document?
+
+
+
+
+        
+Original Query : Item 1B. Unresolved Staff Comments 15
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information on the nature of the unresolved staff comments mentioned in Item 1B?
+2. How are unresolved staff comments typically addressed by the company as outlined in Item 1B?
+
+
+
+
+        
+Original Query : Item 2. Properties 15
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information on the properties listed under Item 2. Properties 15?
+2. How do the properties under Item 2. Properties 15 differ from others listed in the document?
+
+
+
+
+        
+Original Query : Item 3. Legal Proceedings 16
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on any legal proceedings that have involved the company in the past?
+2. How does the company handle legal issues and what is the process for addressing legal proceedings?
+
+
+
+
+        
+Original Query : Item 4. Mine Safety Disclosures 16
+
+Times to run : 2
+
+New Queries : 1. Can you provide detailed information about the Mine Safety Disclosures section in the document?
+2. What safety measures and disclosures are included in the Mine Safety Disclosures section of the document?
+
+
+
+
+        
+Original Query : Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity 
+
+Times to run : 2
+
+New Queries : 1. What factors influence the market for the registrant's common equity?
+2. How does the registrant handle related stockholder matters and issuer purchases of equity?
+
+
+
+
+        
+Original Query : Item 6. Selected Financial Data 19
+
+Times to run : 2
+
+New Queries : 1. Can you provide the selected financial data for item 6 from the table of contents?
+2. How does the financial data for item 6 compare to previous years in the document?
+
+
+
+
+        
+Original Query : Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 20
+
+Times to run : 2
+
+New Queries : 1. Can you provide insights into the financial condition and results of operations as discussed in item 7 of the document?
+  
+2. How does management's discussion and analysis in item 7 impact the overall financial performance of the company?
+
+
+
+
+        
+Original Query : Item 7A. Quantitative and Qualitative Disclosures About Market Risk 28
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the quantitative disclosures related to market risk outlined in section 7A of the document?
+2. What are the key elements of the qualitative disclosures about market risk as discussed in section 7A?
+
+
+
+
+        
+Original Query : Item 8. Financial Statements and Supplementary Data 30
+
+Times to run : 2
+
+New Queries : 1. Can you provide detailed information on the financial statements included in  Item 8?
+2. What supplementary data is presented in Item 8 of the document?
+
+
+
+
+        
+Original Query : Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 62
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information about any changes in accounting methods that have occurred?
+2. Have there been any disagreements with your accountants regarding financial disclosure?
+
+
+
+
+        
+Original Query : Item 9A. Controls and Procedures 62
+
+Times to run : 2
+
+New Queries : 1. Can you provide detailed information on the controls and procedures outlined in section 9A of the document?
+2. How does the company ensure compliance with regulations and standards related to controls and procedures as mentioned in section 9A?
+
+
+
+
+        
+Original Query : Item 9B. Other Information 62
+
+Times to run : 2
+
+New Queries : 1. Can you provide more details on the information covered under section 9B of the document?
+2. What type of content or data is typically included in the Other Information section under Item 9B?
+
+
+
+
+        
+Original Query : Item 10. Directors, Executive Officers and Corporate Governance 63
+
+Times to run : 2
+
+New Queries : 1. Can you provide information about the directors and executive officers of the company as outlined in Item 10 of the document?
+2. How is corporate governance structured within the organization according to Item 10 of the document?
+
+
+
+
+        
+Original Query : Item 11. Executive Compensation 63
+
+Times to run : 2
+
+New Queries : 1. Can you provide details about the executive compensation structure outlined in section 11?
+2. How does the company determine and disclose executive compensation, as described in section 11 of the document?
+
+
+
+
+        
+Original Query : Item 12 . Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 63
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the security ownership of certain beneficial owners mentioned in item 12?
+2. What details are available regarding the management and related stockholder matters addressed in item 12?
+
+
+
+
+        
+Original Query : Item 13 . Certain Relationships and Related Transactions, and Director Independence 63
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information about the relationships and related transactions disclosed in Item 13?
+2. How does the company determine the independence of its directors, as outlined in Item 13 of the document?
+
+
+
+
+        
+Original Query : Item 14. Principal Accountant Fees and Services 63
+
+Times to run : 2
+
+New Queries : 1. Can you provide further details on the fees and services provided by the principal accountant as outlined in item 14?
+2. How are the principal accountant fees and services disclosed in the document at item 14?
+
+
+
+
+        
+Original Query : Item 15. Exhibit and Financial Statement Schedules 64
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information about the Exhibit and Financial Statement Schedules included in Item 15?
+2. What details or data are typically found in the Exhibit and Financial Statement Schedules mentioned in Item 15?
+
+
+
+
+        
+Original Query : Item 16. Form 10-K Summary 66
+
+Times to run : 2
+
+New Queries : 1. Can you provide a summary of Form 10-K for Item 16?
+2. What information is included in the Form 10-K Summary for Item 16?
+
+
+
+
+        
+Original Query : Item 1. Business
+
+Times to run : 2
+
+New Queries : 1. What are the key aspects of the business discussed in the document?
+2. Can you provide more details about the business operations outlined in the document?
+
+
+
+
+        
+Original Query : Item 1A. Risk Factors
+
+Times to run : 2
+
+New Queries : 1. What are the key risk factors associated with Item 1A? 
+2. Can you provide more details on the specific risks outlined in Item 1A?
+
+
+
+
+        
+Original Query : Item 1B. Unresolved Staff Comments
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information on the unresolved staff comments mentioned in section 1B?
+2. How have the unresolved staff comments impacted the overall progress of the project as discussed in section 1B?
+
+
+
+
+        
+Original Query : Item 2. Properties
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information about the properties listed in Item 2?
+2. How do the properties outlined in Item 2 relate to the overall document content?
+
+
+
+
+        
+Original Query : Item 3. Legal Proceedings
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on any legal proceedings mentioned in Item 3 of the document?
+2. What details can you share about the legal proceedings outlined in Item 3?
+
+
+
+
+        
+Original Query : Item 4. Mine Safety Disclosures
+
+Times to run : 2
+
+New Queries : 1. Can you provide detailed information on the mine safety disclosures mentioned in item 4 of the document?
+2. How does the company address mine safety concerns as outlined in item 4 regarding mine safety disclosures?
+
+
+
+
+        
+Original Query : Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity 
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the market for the registrant's common equity?
+2. What related stockholder matters are disclosed in the document?
+
+
+
+
+        
+Original Query : Item 6. Selected Financial Data
+
+Times to run : 2
+
+New Queries : 1. Can you provide me with the selected financial data for Item 6 from the document?
+2. What key financial figures are included in the selected financial data under Item 6?
+
+
+
+
+        
+Original Query : Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Times to run : 2
+
+New Queries : 1. Can you provide insight into the financial condition of the company as discussed in Management's Discussion and Analysis?
+2. What key points were mentioned regarding the results of operations in Management's Discussion and Analysis?
+
+
+
+
+        
+Original Query : Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 11, “Segment Information and Geographic 
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on Item 8 in the Notes to Consolidated Financial Statements in Note 11 of the Form 10-K document?
+2. I would like more information about the content covered in Item 8 of the Form 10-K related to Segment Information and Geographic in the Notes to Consolidated Financial Statements.
+
+
+
+
+        
+Original Query : Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the quantitative measures for market risk within the organization?
+  
+2. How does the company disclose qualitative information related to market risk in its reports?
+
+
+
+
+        
+Original Query : Item 8. Financial Statements and Supplementary Data
+
+Times to run : 2
+
+New Queries : 1. Can you provide me with the latest financial statements for the company? 
+2. Are there any supplementary data available that can give further insights into the company's financial performance?
+
+
+
+
+        
+Original Query : item to which the hedge relates on a straight-line basis over the life of the hedge. Changes in the fair value of amounts excluded 
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information on how changes in the fair value of excluded amounts impact the item to which the hedge relates on a straight-line basis?
+2. How does the hedge relate to the item on a straight-line basis over its life, taking into account the changes in the fair value of excluded amounts?
+
+
+
+
+        
+Original Query : Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on any recent changes in accounting practices within the organization?
+2. Have there been any disagreements with the accountants regarding financial disclosure?
+
+
+
+
+        
+Original Query : Item 9A. Controls and Procedures
+
+Times to run : 2
+
+New Queries : 1. How are controls and procedures implemented within the organization to ensure effective governance and compliance?
+2. Can you provide an overview of the specific controls and procedures in place to mitigate risks and ensure accountability within the company?
+
+
+
+
+        
+Original Query : Item 9B. Other Information
+
+Times to run : 2
+
+New Queries : 1. Can you provide any additional details or background information related to Section 9B?
+2. What kind of information or disclosures are typically included in Section 9B of the document?
+
+
+
+
+        
+Original Query : Item 10. Directors, Executive Officers and Corporate Governance
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the key responsibilities of the directors and executive officers within the company?
+2. How does the company approach corporate governance and what measures are in place to ensure transparency and accountability among the leadership team?
+
+
+
+
+        
+Original Query : Item 11. Executive Compensation
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on the executive compensation structure within the organization?
+2. How does the company determine executive compensation and what factors are taken into consideration?
+
+
+
+
+        
+Original Query : Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Times to run : 2
+
+New Queries : 1. What is the breakdown of security ownership among certain beneficial owners and members of management?
+2. How is stock ownership managed for related stockholders in the company?
+
+
+
+
+        
+Original Query : Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the relationships and related transactions disclosed in Item 13 of the document?
+2. How does director independence play a role in the content covered under Item 13?
+
+
+
+
+        
+Original Query : Item 14. Principal Accountant Fees and Services
+
+Times to run : 2
+
+New Queries : 1. Can you provide detailed information on the principal accountant fees and services listed under Item 14?
+2. What are the specific services included in the principal accountant fees outlined in Item 14?
+
+
+
+
+        
+Original Query : Item 15. Exhibit and Financial Statement Schedules
+
+Times to run : 2
+
+New Queries : 1. Can you provide the exhibit and financial statement schedules for Item 15?
+2. I would like more information on the exhibit and financial statement schedules included in Item 15.
+
+
+
+
+        
+Original Query : Item 16. Form 10-K Summary
+
+Times to run : 2
+
+New Queries : 1. Can you provide a summary of Form 10-K for item 16?
+2. What key points should be included in the summary for Form 10-K related to item 16?
+
+
+
+
+        
+Original Query : Item 1. Business 1
+
+Times to run : 2
+
+New Queries : 1. Can you provide an overview of the business operations highlighted in the first section?
+2. How does the document define the scope of the business activities covered under Business 1?
+
+
+
+
+        
+Original Query : Item 1. Business 1
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information about the business aspect discussed in the document?
+2. How does the document outline the relationship between business and other elements within the context discussed?
+
+
+
+
+        
+Original Query : Item 1A. Risk Factors 5
+
+Times to run : 2
+
+New Queries : 1. Can you please provide further information on the risk factors outlined in section 1A of the document?
+2. How significant are the risk factors discussed in section 1A in impacting the overall scope of the document?
+
+
+
+
+        
+Original Query : Item 1B. Unresolved Staff Comments 15
+
+Times to run : 2
+
+New Queries : 1. Can you provide an update on the status of the unresolved staff comments mentioned in Item 1B?
+2. How many unresolved staff comments are currently outstanding from Item 1B in the document?
+
+
+
+
+        
+Original Query : Item 2. Properties 15
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information about the specific properties discussed in section 2. Properties 15?
+2. How do the properties outlined in section 2. Properties 15 impact the overall document or project?
+
+
+
+
+        
+Original Query : Item 3. Legal Proceedings 16
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on any ongoing legal proceedings affecting the organization mentioned in section 16 of the document?
+2. What types of legal issues or disputes are addressed in item 3, Legal Proceedings, section 16?
+
+
+
+
+        
+Original Query : Item 4. Mine Safety Disclosures 16
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the Mine Safety Disclosures section of the document?
+2. What are the key components covered in the Mine Safety Disclosures of this document?
+
+
+
+
+        
+Original Query : Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity 
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the current market status for the registrant's common equity?
+2. Are there any recent stockholder matters and issuer purchases of equity that have impacted the market for the registrant's common equity?
+
+
+
+
+        
+Original Query : Item 6. Selected Financial Data 19
+
+Times to run : 2
+
+New Queries : 1. Can you provide the selected financial data for Item 6 from the document?
+2. What specific financial metrics are included in the selected financial data section for Item 6?
+
+
+
+
+        
+Original Query : Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 20
+
+Times to run : 2
+
+New Queries : 1. Can you provide an overview of Management's Discussion and Analysis of Financial Condition in the document?
+2. How does the document analyze the Results of Operations in terms of financial condition?
+
+
+
+
+        
+Original Query : Item 7A. Quantitative and Qualitative Disclosures About Market Risk 28
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information about the quantitative disclosures related to market risk as outlined in Item 7A?
+2. What are the qualitative aspects that are disclosed about market risk in Item 7A of the document?
+
+
+
+
+        
+Original Query : Item 8. Financial Statements and Supplementary Data 30
+
+Times to run : 2
+
+New Queries : 1. Can you provide detailed information on the financial statements included in Item 8 of the document?
+2. What type of supplementary data is reported in Item 8, and how is it presented in the financial statements?
+
+
+
+
+        
+Original Query : Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 62
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on any changes in accountants related to accounting and financial disclosure?
+2. Have there been any disagreements with the accountants regarding accounting practices and financial disclosures?
+
+
+
+
+        
+Original Query : Item 9A. Controls and Procedures 62
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on the controls and procedures mentioned in item 9A of the document?
+2. How are the controls and procedures outlined in item 9A enforced within the organization?
+
+
+
+
+        
+Original Query : Item 9B. Other Information 62
+
+Times to run : 2
+
+New Queries : 1. Can you provide additional details on the information included in Item 9B of the document?
+2. Is there any specific data or findings worth highlighting in the Other Information section of the document (Item 9B)?
+
+
+
+
+        
+Original Query : Item 10. Directors, Executive Officers and Corporate Governance 63
+
+Times to run : 2
+
+New Queries : 1. Can you provide information about the directors and executive officers of the company?
+2. How does the company ensure good corporate governance practices among its leadership team?
+
+
+
+
+        
+Original Query : Item 11. Executive Compensation 63
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on the executive compensation structure within the organization?
+2. How is executive compensation determined and reviewed within the company?
+
+
+
+
+        
+Original Query : Item 12 . Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 63
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the security ownership of certain beneficial owners and management in relation to stockholder matters?
+2. What details can you share about the percentage of ownership held by certain beneficial owners and management, as outlined in item 12 of the document?
+
+
+
+
+        
+Original Query : Item 13 . Certain Relationships and Related Transactions, and Director Independence 63
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the relationships and transactions disclosed in Item 13 of the document?
+2. How does the document address director independence in relation to certain relationships and transactions discussed in Item 13?
+
+
+
+
+        
+Original Query : Item 14. Principal Accountant Fees and Services 63
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on the fees charged by the principal accountant for the services rendered? 
+2. What are the specific services that the principal accountant offers and how do they impact the overall financial statements?
+
+
+
+
+        
+Original Query : Item 15. Exhibit and Financial Statement Schedules 64
+
+Times to run : 2
+
+New Queries : 1. Can you provide the exhibit schedules related to Item 15?
+2. Are the financial statement schedules included in Item 15 available for review?
+
+
+
+
+        
+Original Query : Item 16. Form 10-K Summary 66
+
+Times to run : 2
+
+New Queries : 1. Can you provide a summary of Form 10-K for Item 16?
+2. What key points are included in the Form 10-K Summary for Item 16?
+
+
+
+
+        
+Original Query : Item 1. Business
+
+Times to run : 2
+
+New Queries : 1. Can you provide an overview of the business covered in this section?
+2. What specific aspects of the business are discussed in Item 1 of the document?
+
+
+
+
+        
+Original Query : Item 1A. Risk Factors
+
+Times to run : 2
+
+New Queries : 1. What are the primary risk factors outlined in section 1A of the document?
+2. Can you provide more information on the risks mentioned in section 1A of the document?
+
+
+
+
+        
+Original Query : Item 1B. Unresolved Staff Comments
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the unresolved staff comments mentioned in section 1B of the document? 
+2. How are the unresolved staff comments affecting the overall assessment of the document?
+
+
+
+
+        
+Original Query : Item 2. Properties
+
+Times to run : 2
+
+New Queries : 1. Can you provide a detailed description of the properties listed under Item 2 in the document?
+2. How do the properties outlined in Item 2 impact the overall functioning of the subject matter in the document?
+
+
+
+
+        
+Original Query : Item 3. Legal Proceedings
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information regarding the legal proceedings mentioned in Item 3?
+2. Are there any pending or ongoing legal cases that fall under Item 3?
+
+
+
+
+        
+Original Query : Item 4. Mine Safety Disclosures
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on the mine safety disclosures included in the document?
+2. How does the company address mine safety issues in their disclosures in the document?
+
+
+
+
+        
+Original Query : Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity 
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the market for the registrant's common equity?
+2. What related stockholder matters are disclosed in the document?
+
+
+
+
+        
+Original Query : Item 6. Selected Financial Data
+
+Times to run : 2
+
+New Queries : 1. Can you provide me with the selected financial data for the current fiscal year?
+2. How does the selected financial data compare to previous years in terms of growth and performance?
+
+
+
+
+        
+Original Query : Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Times to run : 2
+
+New Queries : 1. Can you provide an overview of the key points discussed in Management's Discussion and Analysis of Financial Condition and Results of Operations?
+2. How does the Management's Discussion and Analysis section in the document assess the company's financial health and performance?
+
+
+
+
+        
+Original Query : Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 11, “Segment Information and Geographic 
+
+Times to run : 2
+
+New Queries : - Please provide more details on Item 8 in Note 11 of the Form 10-K document.
+- Can you explain the significance of Note 11, specifically in relation to Item 8 of the Form 10-K?
+
+
+
+
+        
+Original Query : Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the market risks that your company faces, both quantitatively and qualitatively?
+2. How does your company disclose market risk in terms of both quantitative and qualitative aspects in its reports?
+
+
+
+
+        
+Original Query : Item 8. Financial Statements and Supplementary Data
+
+Times to run : 2
+
+New Queries : 1. Can you provide me with the financial statements included in the document?
+2. Are there any supplementary data or disclosures related to the financial statements in item 8?
+
+
+
+
+        
+Original Query : item to which the hedge relates on a straight-line basis over the life of the hedge. Changes in the fair value of amounts excluded 
+
+Times to run : 2
+
+New Queries : 1. What is the specific accounting treatment for changes in the fair value of amounts excluded from the item to which the hedge relates on a straight-line basis over the life of the hedge?
+2. How are changes in the fair value of amounts excluded from the hedge related item accounted for over the duration of the hedge?
+
+
+
+
+        
+Original Query : Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+Times to run : 2
+
+New Queries : 1. Have there been any recent changes in the relationship with the accountants regarding accounting and financial disclosure practices?
+2. Can you provide details on any disagreements that have occurred with the accountants regarding accounting and financial disclosure?
+
+
+
+
+        
+Original Query : Item 9A. Controls and Procedures
+
+Times to run : 2
+
+New Queries : 1. Can you please provide information on the controls and procedures outlined in section 9A of the document?
+2. How have the controls and procedures described in section 9A been implemented and monitored within the organization?
+
+
+
+
+        
+Original Query : Item 9B. Other Information
+
+Times to run : 2
+
+New Queries : 1. Can you provide more details about the "Other Information" included in Item 9B of the document?
+2. How significant is the "Other Information" section in Item 9B and how does it impact the overall content of the document?
+
+
+
+
+        
+Original Query : Item 10. Directors, Executive Officers and Corporate Governance
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the roles and responsibilities of the directors and executive officers within the organization?
+2. How does the company ensure good corporate governance practices are upheld by the directors and executive officers?
+
+
+
+
+        
+Original Query : Item 11. Executive Compensation
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the executive compensation structure within the organization?
+2. How does the company determine and evaluate the executive compensation packages?
+
+
+
+
+        
+Original Query : Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on security ownership for certain beneficial owners and management?
+2. Are there any related stockholder matters that are significant for consideration in Item 12?
+
+
+
+
+        
+Original Query : Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information about the relationships and transactions mentioned in Item 13 of the document?
+2. How does the document address director independence in relation to certain relationships and transactions discussed in Item 13?
+
+
+
+
+        
+Original Query : Item 14. Principal Accountant Fees and Services
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information on the fees charged by the principal accountant and the services they offer?
+2. How are the principal accountant fees and services outlined in the document and what are the specific details provided?
+
+
+
+
+        
+Original Query : Item 15. Exhibit and Financial Statement Schedules
+
+Times to run : 2
+
+New Queries : 1. Can you provide me with the exhibit related to Item 15 in the document?
+2. Are there any specific financial statement schedules included in relation to Item 15?
+
+
+
+
+        
+Original Query : Item 16. Form 10-K Summary
+
+Times to run : 2
+
+New Queries : 1. Can you provide a summary of the Form 10-K for Item 16? 
+2. What key information is included in the Form 10-K Summary for Item 16?
+
+
+
+
+        
+Original Query : Item 1. Business 1
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the first section of the document related to the business?
+2. What details does the document provide regarding the business aspect in the first section?
+
+
+
+
+        
+Original Query : Item 1A. Risk Factors 5
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the specific risk factors outlined in Item 1A of the document?
+2. How are the risk factors discussed in Item 1A relevant to the overall content of the document?
+
+
+
+
+        
+Original Query : Item 1B. Unresolved Staff Comments 15
+
+Times to run : 2
+
+New Queries : 1. Can you provide an update on any unresolved staff comments regarding Item 1B?
+2. Are there any specific concerns or areas of focus related to unresolved staff comments on Item 1B?
+
+
+
+
+        
+Original Query : Item 2. Properties 15
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information on the properties listed in number 15?
+2. What are the specific characteristics of the properties outlined in 15?
+
+
+
+
+        
+Original Query : Item 3. Legal Proceedings 16
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on any legal proceedings currently involving the company as outlined in Item 3 of the document?
+2. What are the key legal proceedings disclosed in Item 3 that investors should be aware of?
+
+
+
+
+        
+Original Query : Item 4. Mine Safety Disclosures 16
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the Mine Safety Disclosures outlined in Item 4?
+2. What are the specific details related to Mine Safety Disclosures as mentioned in Item 4 of the document?
+
+
+
+
+        
+Original Query : Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity 
+
+Times to run : 2
+
+New Queries : 1. Can you provide information on the market for the registrant's common equity?
+2. What details can you share about related stockholder matters and issuer purchases of equity?
+
+
+
+
+        
+Original Query : Item 6. Selected Financial Data 19
+
+Times to run : 2
+
+New Queries : 1. Can you provide the selected financial data from Item 6?
+2. What information is included in the selected financial data section of Item 6?
+
+
+
+
+        
+Original Query : Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 20
+
+Times to run : 2
+
+New Queries : 1. Can you provide insights on the financial condition and operating results discussed in Item 7?
+2. What key points were highlighted in the management's discussion regarding financial condition and results of operations in Item 7?
+
+
+
+
+        
+Original Query : Item 7A. Quantitative and Qualitative Disclosures About Market Risk 28
+
+Times to run : 2
+
+New Queries : 1. Can you provide insights on the quantitative and qualitative disclosures about market risk outlined in item 7A of the document?
+2. How does the document address market risk in terms of both quantitative and qualitative disclosures, as per item 7A?
+
+
+
+
+        
+Original Query : Item 8. Financial Statements and Supplementary Data 30
+
+Times to run : 2
+
+New Queries : 1. Can you provide details on the financial statements included in Item 8 of the document? 
+2. What supplementary data is covered in Item 8 regarding financial statements?
+
+
+
+
+        
+Original Query : Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 62
+
+Times to run : 2
+
+New Queries : 1. Can you provide more information on any changes in accountants or disagreements regarding accounting and financial disclosure?
+2. Are there any specific issues or conflicts with accountants related to accounting and financial disclosures that have arisen recently?
+
+
+
+
+        
+Original Query : Item 9A. Controls and Procedures 62
+
+Times to run : 2
+
+New Queries : 1. Can you provide detailed information on the controls and procedures outlined in section 9A of the document?
+2. How are the controls and procedures in section 9A implemented and monitored within the organization?
+
+
+
+
+        
